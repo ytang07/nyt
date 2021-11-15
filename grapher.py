@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import json
 
 from archive import month_dict
-from analyzer import cc_finder
+from request_layer import cc_finder
 
 def get_avg(year, month, month_avgs):
     filename = f"{year}/{month_dict[month]}_Polarity.json"
