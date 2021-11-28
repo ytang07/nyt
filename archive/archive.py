@@ -1,7 +1,9 @@
 import requests
 import json
 import os
-from config import public_key
+import sys
+sys.path.append('../..')
+from nyt.config import public_key
 
 month_dict = {
     1: "January",
