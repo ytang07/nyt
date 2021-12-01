@@ -7,6 +7,7 @@ from archive import month_dict
 
 # now let's explore our summarized content
 def explore_summarized(year, month):
+    # open up the file
     filename = f"{year}/{month_dict[month]}_Summary.json"
     try:
         with open(filename, "r") as f:
@@ -14,10 +15,12 @@ def explore_summarized(year, month):
     except:
         raise NameError("No Such File")
     
+    # append entires to a list
     modded = []
     for entry in entries:
         new = entry.replace(" .", "")
         modded.append(new)
+    # return all the entries as a string
     return " ".join(modded)
 
 

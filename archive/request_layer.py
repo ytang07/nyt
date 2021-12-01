@@ -2,7 +2,9 @@ import json
 import requests
 
 from archive import month_dict
-from config import thetextapikey
+import sys
+sys.path.append("../..")
+from nyt.config import thetextapikey
 
 headers = {
     "Content-Type": "application/json",
@@ -111,7 +113,7 @@ def get_ner(year, month):
     with open(f"{year}/{month_dict[month]}_NER.json", "w") as f:
         json.dump(ners, f)
 
-get_ner(2021, 10)
+# get_ner(2021, 10)
 
 #polarity
 polarity_url = text_url+"polarity_by_sentence"
