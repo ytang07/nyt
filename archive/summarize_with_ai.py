@@ -56,7 +56,6 @@ def summarize_headlines(year, month):
         res = requests.post(summarizer_url, headers=headers, json=body)
         _dict = json.loads(res.text)
         summaries.append(_dict["summary"])
-    " ".join(summaries)
     with open(f"{year}/{month_dict[month]}_Summary.json", "w") as f:
         json.dump(summaries, f)
 
