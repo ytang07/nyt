@@ -1,0 +1,939 @@
+PERSON: Obama
+PERSON: Obama
+DATE: Final Year
+PERSON: Obama
+ORG: GOP
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: House
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Chris Murphy
+PERSON: Obama
+PERSON: Obama
+ORG: GOP
+PERSON: Obama
+ORG: House
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Joseph Votel
+ORG: US Central Command
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Trump
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Planned Parenthood
+PERSON: Obama
+ORG: White House
+PERSON: Obama
+PERSON: Hillary Clinton
+PERSON: Bernie Sanders
+PERSON: Obama
+PERSON: Obama
+EVENT: State of the Union
+EVENT: State of the Union
+PERSON: Obama
+DATE: '16
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: 2016
+EVENT: State of the Union
+PERSON: Obama
+ORG: Google
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+EVENT: State of the Union
+PERSON: Hillary Clinton
+PERSON: Obama
+PERSON: Obama
+PERSON: Joe Biden
+PERSON: Obama
+PERSON: Michelle Obama
+PERSON: Obama
+EVENT: State of the Union
+PERSON: Michelle Obama
+PERSON: Obama
+PERSON: Hillary Clinton
+PERSON: Obama
+PERSON: Bernie Sanders
+PERSON: Obama
+EVENT: State of the Union
+PERSON: Obama
+PERSON: Paul Ryan
+PERSON: Obama
+PERSON: Barack Obama
+PERSON: Michelle Obama's
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: McConnell
+PERSON: Obama
+ORG: ISIS
+PERSON: Obama
+PERSON: Clinton
+PERSON: Obama
+DATE: 2016
+PERSON: Obama
+PERSON: Obama
+PERSON: John Kasich
+PERSON: Obama
+PERSON: Hillary Clinton
+PERSON: Obama
+ORG: the Supreme Court
+PERSON: Obama
+EVENT: Holocaust
+PERSON: Bernie Sanders
+PERSON: Obama
+DATE: Wednesday
+PERSON: Bernie Sanders
+PERSON: Obama
+PERSON: Obama
+ORG: House
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Katie Fallon
+PERSON: Obama
+ORG: White House
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: Today
+PERSON: Obama
+PERSON: Paul Ryan
+PERSON: Obama
+MONEY: More Than $1 Billion
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: ISIS
+PERSON: Obama
+ORG: Senate
+PERSON: Obama
+PERSON: Obama
+MONEY: 10
+PERSON: Obama
+LOC: Sunnylands
+ORG: Congress
+PERSON: Obama
+PERSON: Obama
+ORG: Congress
+MONEY: $18 Billion
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+MONEY: $11 Billion
+DATE: Monday
+ORG: Coldplay
+PERSON: Barack Obama
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+PERSON: Obama
+ORG: Senate
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Bernie Sanders
+PERSON: Obama
+ORG: Supreme Court
+PERSON: Obama
+PERSON: Antonin Scalia
+PERSON: Obama
+PERSON: Scalia
+PERSON: Obama
+PERSON: Scalia
+PERSON: Scalia
+ORG: GOP
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: GOP
+PERSON: Donald Trump
+PERSON: Scalia
+PERSON: Obama
+ORG: Senate
+PERSON: Obama
+ORG: Supreme Court
+PERSON: Obama
+DATE: 88 Years
+PERSON: Obama
+PERSON: Scalia
+PERSON: Obama
+PERSON: Ted Cruz
+PERSON: Marco Rubio
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Ben Carson
+PERSON: Obama
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+ORG: GOP
+ORG: Supreme Court
+PERSON: Obama
+ORG: GOP
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Funny or Die
+PERSON: Ex-Obama Cabinet
+PERSON: Lazard
+PERSON: Obama
+ORG: NSA
+PERSON: Obama
+PERSON: Obama
+ORG: GOP
+PERSON: Scalia
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Charlie Brown
+ORG: White House
+PERSON: Obama
+PERSON: Netanyahu
+PERSON: Obama
+PERSON: De
+PERSON: Blasio
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+LOC: Mideast
+PERSON: Obama
+PERSON: Trudeau
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Justin Trudeau
+PERSON: Obama
+PERSON: Obama
+DATE: Friday
+PERSON: Donald Trump
+PERSON: Nancy Reagan
+PERSON: Barack Obama
+PERSON: Obama
+ORG: South by Southwest
+ORG: White House
+PERSON: Obama
+PERSON: Cameron
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+LOC: Southeast Atlantic Coast
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+LOC: Southeast Coast
+PERSON: Obama
+PERSON: Lin-Manuel Miranda
+PERSON: Obama
+PERSON: Obama
+PERSON: Merrick Garland
+ORG: Supreme Court
+PERSON: Merrick Garland
+PERSON: Obama
+ORG: Supreme Court
+PERSON: Obama
+PERSON: Merrick Garland
+ORG: Supreme Court
+PERSON: Obama
+PERSON: Obama
+PERSON: Hillary Clinton
+PERSON: Obama
+PERSON: Obama
+ORG: Supreme Court
+PERSON: Obama
+PERSON: Obama
+DATE: Nearly 90 Years
+PERSON: Donald Trump
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Castro
+PERSON: Obama
+PERSON: Obama
+PERSON: Fidel Castro
+PERSON: Obama
+PERSON: Obama
+PERSON: Bill Clinton's
+PERSON: Obama
+DATE: Last Eight Years
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Hillary Clinton
+ORG: GOP
+PERSON: Obama
+ORG: Supreme Court
+PERSON: Obama
+PERSON: Obama
+DATE: the 21st Century
+PERSON: Fidel Castro
+PERSON: Barack Obama's
+PERSON: Obama
+DATE: Season
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Donald Trump's
+PERSON: Obama
+PERSON: Xi
+PERSON: Obama
+PERSON: Jesse Webster
+PERSON: Obama
+PERSON: Obama
+PERSON: Donald Trump
+ORG: GOP
+PERSON: Obama
+PERSON: Obama
+PERSON: Zika
+PERSON: Obama
+PERSON: Obama
+PERSON: Merrick Garland
+PERSON: Obama
+ORG: Supreme Court
+ORG: Treasury
+PERSON: Obama
+PERSON: Obama
+PERSON: Hillary Clinton
+PERSON: Michelle Obama's
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: White House
+PERSON: Obama
+ORG: ISIS
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Supreme Court
+PERSON: Obama
+PERSON: Obama
+LOC: Europe
+PERSON: Obama
+PERSON: Putin
+ORG: SEC
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: King Salman
+PERSON: Obama
+LOC: Persian Gulf
+PERSON: Obama
+PERSON: Obama
+ORG: EU
+PERSON: Boris Johnson's
+PERSON: Obama
+PERSON: Churchill
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Angela Merkel
+PERSON: Obama
+ORG: European Union
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Holmes
+PERSON: Obama
+PERSON: Winston Churchill
+DATE: Weekend
+PERSON: Hillary Clinton
+PERSON: Obama
+PERSON: Obama
+DATE: 8 Years
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: VW
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Malia Obama's
+PERSON: Malia Obama
+ORG: Harvard
+DATE: 2017
+ORG: White House
+PERSON: Obama
+PERSON: Malia Obama
+ORG: Harvard
+PERSON: Obama
+PERSON: Clinton
+ORG: GOP
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: John Boehner
+PERSON: Obama
+ORG: White House
+PERSON: Obama
+PERSON: Obama
+ORG: Army
+PERSON: Obama
+ORG: ISIS
+PERSON: Obama
+PERSON: Barack Obama
+PERSON: Bryan Cranston
+DATE: Lifetime
+PERSON: Obama
+PERSON: Donald Trump
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Donald Trump's
+PERSON: Obama
+ORG: Secret Service
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Trump
+ORG: Rutgers
+PERSON: Obama
+PERSON: Michelle Obama
+ORG: GOP
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Mullah Mansour
+ORG: Taliban
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+PERSON: Obama
+PERSON: Donald Trump
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Times
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Donald Trump
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Clinton
+ORG: IRS
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Air Force
+PERSON: Obama
+PERSON: Michelle Obama
+PERSON: Donald Trump
+ORG: CUNY
+PERSON: Obama
+PERSON: Muhammad Ali
+PERSON: Obama
+PERSON: Hillary Clinton
+PERSON: Donald Trump
+PERSON: Obama
+PERSON: Modi
+PERSON: Obama
+PERSON: Hillary Clinton
+PERSON: Obama
+PERSON: Sanders
+PERSON: Clinton
+PERSON: Bernie Sanders
+PERSON: Obama
+PERSON: Donald Trump
+PERSON: Obama
+PERSON: Hillary Clinton
+PERSON: Obama
+ORG: Taliban
+PERSON: Obama
+PERSON: Hillary Clinton
+PERSON: Clinton
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Donald Trump
+PERSON: Obama
+PERSON: Obama
+ORG: Supreme Court
+PERSON: Trump
+PERSON: Clinton
+PERSON: Obama
+PERSON: Obama
+PERSON: Dalai Lama
+PERSON: Clinton
+PERSON: Obama
+PERSON: Obama
+LOC: Carlsbad Caverns
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: 1976
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+LOC: West Coast
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Trudeau
+PERSON: Obama
+ORG: White House
+ORG: Senate
+PERSON: Obama
+PERSON: Obama
+PERSON: Hillary Clinton
+PERSON: Obama
+PERSON: Justin Trudeau
+PERSON: Enrique Pena Nieto
+PERSON: Obama
+PERSON: Obama
+TIME: The Precious Hours
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Kim Jong-
+PERSON: Obama
+PERSON: Hillary Clinton's
+PERSON: Obama
+PERSON: Obama
+TIME: Hours
+PERSON: Obama
+PERSON: Hillary Clinton
+PERSON: Obama
+PERSON: Obama
+ORG: NATO
+PERSON: Obama
+LOC: Arctic
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: NATO
+LOC: Europe
+PERSON: Obama
+PERSON: Obama
+DATE: '60s
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Obamacare
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Erdogan
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Miranda Lambert
+PERSON: Michelle Obama
+PERSON: Obama
+PERSON: Donald Trump's
+PERSON: Keegan-Michael Key
+PERSON: Mike Birbiglia
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: DNC
+PERSON: Clinton
+PERSON: Obama
+PERSON: Michelle Obama
+PERSON: Obama
+PERSON: Michelle Obama
+PERSON: Bernie Sanders
+PERSON: Michelle Obama
+DATE: Tuesday
+PERSON: Obama
+PERSON: Obama
+PERSON: Hillary Clinton
+PERSON: Obama
+PERSON: Clinton
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: GOP
+PERSON: Obama
+ORG: the White House
+PERSON: Obama
+PERSON: Trump
+PERSON: Obama
+ORG: VA
+PERSON: Michelle Obama
+PERSON: Lady Gaga's
+PERSON: Obama
+PERSON: Donald Trump
+PERSON: Obama
+MONEY: $400 Million
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+LOC: Martha's
+DATE: Two-Week
+PERSON: Obama
+PERSON: Obama
+PERSON: Donald Trump
+PERSON: Obama
+ORG: ISIS
+PERSON: Obama
+PERSON: Obama
+PERSON: Parker Sawyers
+PERSON: Obama
+PERSON: Barack Obama's
+DATE: Summery
+EVENT: Green Day's
+PERSON: Obama
+PERSON: Obama
+ORG: Emirates
+DATE: Obama-Era
+DATE: Six Years
+PERSON: Obama
+DATE: The Obama Years
+PERSON: Obama
+PERSON: Obama
+PERSON: Trump
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Bush
+DATE: Obama
+PERSON: Obama
+PERSON: Hillary Clinton
+PERSON: Obama
+PERSON: Obama
+LOC: Asia
+PERSON: Obama
+ORG: Wired Magazine
+PERSON: Obama
+PERSON: Obama
+LOC: Asia
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Colin Kaepernick
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Rodrigo Duterte
+PERSON: Obama
+ORG: Gallup
+PERSON: Obama
+DATE: Days
+PERSON: Obama
+PERSON: Rodrigo Duterte
+LOC: Asia
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+LOC: Asia
+PERSON: Obama
+LOC: Southeast Asia
+PERSON: Mike Pence
+PERSON: Donald Trump
+PERSON: Obama
+PERSON: Obama
+LOC: Asia
+PERSON: Obama
+PERSON: Michelle Obama
+PERSON: Hillary Clinton's
+PERSON: Obama
+DATE: 9/11
+PERSON: Obama
+PERSON: Trump
+PERSON: Clinton
+PERSON: Obama
+PERSON: Netanyahu
+PERSON: Obama
+ORG: African American Museum
+PERSON: Obama
+PERSON: Obama
+ORG: Trans-Pacific Partnership Trade
+PERSON: Donald Trump
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: 9/11
+ORG: UN
+PERSON: Obama
+PERSON: Clinton
+PERSON: Michelle Obama
+PERSON: Hillary Clinton
+PERSON: Obama
+ORG: UN
+PERSON: Obama
+ORG: UN
+PERSON: Obama
+PERSON: Hillary Clinton
+PERSON: Obama
+ORG: UN
+PERSON: Obama
+PERSON: Obama
+PERSON: Netanyahu
+PERSON: Obama
+ORG: the United Nations
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Netanyahu
+PERSON: Mel Brooks
+PERSON: Obama
+PERSON: Joe Biden
+PERSON: Michelle Obama
+PERSON: Hillary Clinton
+PERSON: Obama
+DATE: 9/11
+PERSON: Obama
+DATE: 1990
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: Over 50 Years
+PERSON: Obama
+PERSON: Shimon Peres
+PERSON: Michelle Obama
+PERSON: Donald Trump
+ORG: Congress
+PERSON: Obama
+DATE: 9/11
+PERSON: Hillary Clinton
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Rodrigo Duterte
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Michelle Obama
+PERSON: Obama
+PERSON: Obama
+DATE: Weekend
+PERSON: Trump
+PERSON: Pence
+PERSON: Clinton
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Trump
+PERSON: Clinton
+PERSON: Michelle Obama
+PERSON: Trump
+PERSON: Obama
+PERSON: Clinton
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Trump
+PERSON: Michelle Obama
+PERSON: Trump
+PERSON: Malik Obama
+PERSON: Patricia Smith
+ORG: GOP
+PERSON: Obama
+PERSON: Marco Rubio
+PERSON: Donald Trump
+PERSON: Obama
+PERSON: Obama
+PERSON: Donald Trump
+ORG: GOP
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: GOP
+PERSON: Obama
+LOC: Silicon Valley
+PERSON: Michelle Obama
+PERSON: Hillary Clinton
+PERSON: Obama
+PERSON: Clinton
+PERSON: Obama
+PERSON: Obama
+ORG: FBI
+PERSON: Obama
+DATE: 3-Day
+PERSON: Hillary Clinton's
+PERSON: Obama
+LOC: Dakota
+PERSON: Obama
+PERSON: Donald Trump
+PERSON: Obama
+PERSON: Obama
+ORG: ESPN
+PERSON: Obama
+PERSON: Obama
+PERSON: Trump
+PERSON: Obama
+PERSON: Michelle Obama
+PERSON: Obama
+DATE: Election Day
+PERSON: Obama
+PERSON: Obama
+PERSON: Clinton
+PERSON: Michelle Obama
+TIME: Late Night
+PERSON: Obama
+PERSON: Hillary Clinton's
+PERSON: Obama
+PERSON: Obama
+PERSON: Trump
+PERSON: Obama
+TIME: 90-Minute
+PERSON: Donald Trump
+PERSON: Obama
+PERSON: Melania Trump
+PERSON: Michelle Obama
+PERSON: Obama
+PERSON: Trump
+PERSON: Obama
+PERSON: Obama
+PERSON: Trump
+PERSON: Obama
+PERSON: Angela Merkel
+LOC: West
+PERSON: Obama
+PERSON: Donald Trump
+PERSON: Chelsea Manning
+PERSON: Obama
+PERSON: Donald Trump
+PERSON: Obama
+PERSON: Obama
+PERSON: Donald Trump
+PERSON: Obama
+PERSON: Hillary Clinton
+PERSON: Trump
+PERSON: Obama
+LOC: Europe
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Angela Merkel
+PERSON: Obama
+ORG: NSA
+PERSON: Obama
+PERSON: Trump
+PERSON: Obama
+LOC: Latin America
+PERSON: Donald Trump
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Trump
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Fidel Castro's
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Bowe Bergdahl
+PERSON: Obama
+ORG: the Kennedy Center
+PERSON: Michelle Obama
+PERSON: Obama
+LOC: Dakota
+PERSON: Obama
+ORG: Senate
+PERSON: Obama
+PERSON: Trump
+PERSON: Obama
+ORG: VA
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: DNC
+PERSON: Obama
+PERSON: Obama
+PERSON: Putin
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+LOC: Atlantic
+LOC: Arctic
+PERSON: Obama
+PERSON: Trump
+PERSON: Trump
+PERSON: Obama
+ORG: UN
+PERSON: Obama
+PERSON: Trump
+PERSON: Carl Paladino
+PERSON: Trump
+PERSON: Obama
+DATE: '17
+PERSON: Obama
+PERSON: Trump
+PERSON: Obama
+PERSON: Trump
+PERSON: Obama
+PERSON: Netanyahu
+DATE: Years
+PERSON: Obama
+PERSON: Obama
+PERSON: Shinzo Abe's
+PERSON: Obama
+DATE: Obama's Last Days
+PERSON: Trump
+PERSON: Obama

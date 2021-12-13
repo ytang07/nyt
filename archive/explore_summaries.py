@@ -31,7 +31,7 @@ from PIL import Image
 def wordcloud(year, month):
     headlines = explore_summarized(year, month) # expects a string
     stopwords = set(STOPWORDS)
-    frame_mask=np.array(Image.open("R.png"))
+    frame_mask=np.array(Image.open("cloud_shape.png"))
     wordcloud = WordCloud(mask=frame_mask, stopwords=stopwords, background_color="white").generate(headlines)
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis("off")

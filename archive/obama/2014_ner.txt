@@ -1,0 +1,994 @@
+PERSON: Obama
+PERSON: Obama
+ORG: Congress
+PERSON: Michelle Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Fed
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: NSA
+ORG: Times
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Bill O'Reilly
+PERSON: Obama
+EVENT: Super Bowl
+PERSON: Obama
+PERSON: Obama
+EVENT: State of Union
+PERSON: Obama
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+EVENT: State of the Union
+PERSON: Obama
+PERSON: Obama
+DATE: 2014
+EVENT: State of the Union
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: 2000
+PERSON: Obama
+ORG: Times
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Clinton
+PERSON: Obama
+ORG: GOP
+PERSON: Obama
+PERSON: Obama
+ORG: House
+ORG: GOP
+PERSON: Obama
+PERSON: Landrieu
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: O'Reilly
+PERSON: Obama
+PERSON: Obama
+PERSON: Reid
+PERSON: Obama
+MONEY: $750 Million
+PERSON: Michelle Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Putin
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: Weekend
+PERSON: Obama
+PERSON: Jane Chu
+ORG: Arts
+PERSON: Kerry
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Social Security
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Ted Nugent
+PERSON: Obama
+PERSON: Obama
+ORG: S&P
+PERSON: Obama
+ORG: White House
+PERSON: Obama
+PERSON: Boehner
+PERSON: Obama
+PERSON: Karzai
+PERSON: Obama
+PERSON: Obama
+LOC: Middle East
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Michelle Obama's
+PERSON: Harry Brant's
+PERSON: Van Noten's
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+LOC: Crimea
+ORG: GOP
+PERSON: Obama
+PERSON: Obama
+PERSON: Netanyahu
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Senate
+PERSON: Obama
+PERSON: Obama
+PERSON: Clinton
+PERSON: Putin
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Netanyahu
+PERSON: Obama
+PERSON: Kerry
+ORG: House
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Barack Obama
+PERSON: Obama
+PERSON: Obama
+ORG: IMF
+PERSON: Obama
+ORG: Facebook
+PERSON: Obama
+PERSON: Obama
+ORG: Senate
+PERSON: Obama
+PERSON: Obama
+PERSON: Pharrell
+PERSON: Karl
+PERSON: Obama
+PERSON: Mark Zuckerberg's
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Michigan State vs Louisville
+PERSON: Rand Paul
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Michelle Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Michelle Obama
+ORG: Times
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: NSA
+ORG: Times
+PERSON: Michelle Obama
+PERSON: Obama
+ORG: NATO
+PERSON: Obama
+ORG: NSA
+PERSON: Obama
+EVENT: World War I
+PERSON: Michelle Obama
+PERSON: Michelle Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Putin
+PERSON: Obama
+ORG: White House
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: Years
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Lyndon Johnson
+PERSON: Obama
+PERSON: Obama
+PERSON: Bush
+PERSON: Obama
+ORG: GOP
+PERSON: Obama
+ORG: Humanities
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: GOP
+PERSON: Obama
+ORG: NSA
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: More Than 3 Years
+PERSON: Obama
+PERSON: Obama
+PERSON: Putin
+PERSON: Obama
+EVENT: Cold War
+PERSON: Obama
+PERSON: Putin
+PERSON: Obama
+LOC: Asia
+PERSON: Obama
+ORG: White House
+ORG: Times
+PERSON: Obama
+PERSON: Obama
+LOC: Asia
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+LOC: Mideast
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Michelle Obama's
+PERSON: Lupita Nyong'o's
+PERSON: Obama
+PERSON: Obama
+LOC: Asia
+PERSON: Obama
+ORG: GOP
+PERSON: Boehner
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+MONEY: $100 Million
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Michelle Obama
+PERSON: Anna Wintour
+PERSON: Obama
+PERSON: Obama
+ORG: Times
+PERSON: Obama
+PERSON: Obama
+PERSON: Piketty
+PERSON: Obama
+PERSON: Obama
+DATE: Benghazi
+PERSON: Clinton
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: GOP
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+EVENT: 9/11 Memorial Museum
+PERSON: Michelle Obama
+PERSON: Bernanke
+PERSON: Michelle Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Veterans Affairs
+PERSON: Obama
+PERSON: Obama
+ORG: VA
+PERSON: Obama
+PERSON: LBJ
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Julian Castro
+ORG: HUD
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: 2016
+PERSON: Obama
+PERSON: Obama
+ORG: Homeland Security
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+LOC: West Point
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: VA
+PERSON: Eric Shinseki
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Taliban
+PERSON: Obama
+PERSON: Bergdahl
+ORG: GOP
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Bowe Bergdahl
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: One-Month
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Putin
+PERSON: Obama
+PERSON: Putin
+PERSON: Hollande
+TIME: Seconds
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Bergdahl
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Don Beyer
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Cantor
+PERSON: Obama
+ORG: GOP
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+LOC: Silicon Valley
+PERSON: Obama
+LOC: Sioux
+PERSON: Obama
+DATE: Daily
+LOC: Silicon Valley's
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+LOC: Pacific Ocean
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Putin
+PERSON: Obama
+PERSON: Boehner
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+MONEY: $37 Billion
+ORG: Senate
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Perry
+PERSON: Obama
+PERSON: Obama
+PERSON: Perry
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Boehner
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+PERSON: Boehner
+PERSON: Obama
+PERSON: Obama
+PERSON: Merkel
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+LOC: West Coast
+DATE: 3 Days
+PERSON: Obama
+PERSON: Obama
+ORG: GOP
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: 2012
+ORG: House
+ORG: GOP
+PERSON: Obama
+ORG: Senate
+PERSON: Obama
+ORG: VA
+PERSON: Obama
+ORG: House
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: CIA
+PERSON: Obama
+PERSON: Liz Cheney
+PERSON: Obama
+PERSON: Obama
+ORG: ISIS
+PERSON: Obama
+PERSON: Obama
+ORG: VA
+PERSON: Obama
+DATE: Months
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Clinton
+PERSON: Obama
+PERSON: Obama
+PERSON: Hillary Clinton
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: GOP
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Pelosi
+PERSON: Rand Paul
+EVENT: Ferguson
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Michael Brown
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+ORG: Uber
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: James Foley
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: ISIS
+PERSON: Rubio
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Koch
+PERSON: McConnell
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Hillary Clinton
+PERSON: Obama
+ORG: Congress
+ORG: ISIS
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+LOC: Baltic
+PERSON: Steven Sotloff
+PERSON: Obama
+PERSON: Obama
+ORG: GOP
+PERSON: Obama
+PERSON: Steven Sotloff
+PERSON: Obama
+PERSON: Obama
+PERSON: Cameron
+ORG: NATO
+ORG: ISIS
+PERSON: Obama
+ORG: ISIS
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: ISIS
+PERSON: Obama
+ORG: ISIS
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+ORG: ISIS
+PERSON: Obama
+ORG: ISIS
+PERSON: Obama
+ORG: ISIS
+PERSON: Dick Cheney
+PERSON: Obama
+ORG: House
+PERSON: Obama
+ORG: ISIS
+PERSON: Obama
+PERSON: Obama
+ORG: ISIS
+PERSON: Obama
+ORG: Microsoft
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: ISIS
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Gemma Ward's
+PERSON: Michelle Obama's
+PERSON: Cara Delevingne's
+PERSON: Obama
+ORG: UN
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+ORG: ISIS
+PERSON: Obama
+ORG: ISIS
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Bush
+PERSON: Clinton
+PERSON: Obama
+PERSON: Obama
+ORG: UN General Assembly
+DATE: Wednesday
+ORG: UN
+PERSON: Obama
+ORG: ISIS
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: the United Nations
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Narendra Modi
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+LOC: Central America
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: Midterm
+PERSON: Obama
+TIME: Under 24 Hours
+PERSON: Michelle Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Panetta
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: JPMorgan
+PERSON: Michelle Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Michelle Obama's
+PERSON: Obama
+PERSON: Paltrow
+PERSON: Obama
+PERSON: Michelle Obama
+ORG: Oscar de la Renta
+PERSON: Obama
+PERSON: Obama
+ORG: ISIS
+PERSON: Grimes
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: 2015
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Ron Klain
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Bush
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: Monday
+PERSON: Obama
+PERSON: Michelle Obama
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+PERSON: Obama
+ORG: Supreme Court
+PERSON: Obama
+PERSON: Shaheen
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Jordan
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+LOC: New England
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: Myanmar
+Day
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: GOP
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+PERSON: Obama
+DATE: Final Two Years
+PERSON: Reagan
+PERSON: Clinton
+PERSON: Bush
+PERSON: Obama
+MONEY: $6 Billion
+PERSON: Obama
+DATE: 2016
+PERSON: Obama
+PERSON: Boehner
+PERSON: Obama
+PERSON: Obama
+PERSON: Cuomo
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: State Department
+PERSON: McCain
+PERSON: Obama
+ORG: Pentagon
+ORG: Armed Services
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: FCC
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: FCC
+PERSON: Nicholas Kristof
+PERSON: Obama
+LOC: Asia
+PERSON: Obama
+PERSON: Mark Zuckerberg
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Scalia
+PERSON: Obama
+PERSON: Obama
+DATE: 2016
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Aung San Suu Kyi
+PERSON: Obama
+LOC: Asia
+PERSON: Obama
+ORG: House
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+MONEY: Billions of Dollars
+PERSON: Obama
+ORG: Vice
+PERSON: Alyssa Mastromonaco
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: GOP
+PERSON: Obama
+DATE: Thursday
+PERSON: Obama
+PERSON: Obama
+DATE: Thursday
+PERSON: Obama
+PERSON: Obama
+PERSON: McConnell
+PERSON: Obama
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+PERSON: Obama
+PERSON: Boehner
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: the New Year
+DATE: Holiday Party
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+LOC: Silicon Valley
+PERSON: Obama
+PERSON: Obama
+DATE: Daily
+LOC: Silicon Valley
+PERSON: Obama
+PERSON: Obama
+ORG: the Tea Party
+PERSON: Elizabeth Warren
+PERSON: Obama
+ORG: Treasury
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+MONEY: $440 Billion
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+EVENT: Ferguson
+PERSON: Obama
+ORG: GOP
+PERSON: Obama
+ORG: GOP
+PERSON: Obama
+PERSON: Sasha
+PERSON: Malia
+ORG: House
+ORG: White House
+PERSON: Obama
+PERSON: Obama
+PERSON: Ashton Carter
+ORG: Defense
+PERSON: Cruz
+PERSON: Obama
+PERSON: Obama
+ORG: NIH
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Congress
+ORG: House
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Ashton Carter
+ORG: Pentagon
+PERSON: Obama
+PERSON: The Duke of Cambridge
+PERSON: Colbert
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+MONEY: 86,824
+PERSON: Obama
+PERSON: Michelle Obama
+PERSON: Monique Lhuillier
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: CIA
+PERSON: Obama
+ORG: Sony
+PERSON: Obama
+ORG: Issa
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Congress
+PERSON: Brennan
+PERSON: Obama
+ORG: CIA
+PERSON: Obama
+PERSON: Christie
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Senate
+PERSON: Obama
+PERSON: Obama
+LOC: Alaskan Bay
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+DATE: Hanukkah
+PERSON: Rubio
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Barack Obama
+PERSON: Obama
+PERSON: Obama
+ORG: CIA
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Sony
+PERSON: Obama
+PERSON: Obama
+ORG: Sony
+PERSON: Obama
+ORG: Congress
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Castro
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Christie
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: Christmas
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama

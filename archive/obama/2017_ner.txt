@@ -1,0 +1,98 @@
+ORG: Congress
+PERSON: Obama
+PERSON: Obama
+EVENT: The Afghan War
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Senate
+PERSON: Obama
+PERSON: Michelle Obama
+PERSON: Obama
+DATE: Inauguration Day
+ORG: TI
+PERSON: Barack Obama
+PERSON: Obama
+PERSON: Obama
+ORG: Congress
+PERSON: Trump
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Trump
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Joe Biden
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+DATE: Final Days
+PERSON: Obama
+PERSON: Obama
+ORG: White House
+DATE: Years
+PERSON: Michelle Obama
+PERSON: Obama
+PERSON: Trump
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: White Sox
+ORG: Cubs
+ORG: the White House
+PERSON: Obama
+PERSON: James Cartwright
+ORG: FBI
+PERSON: Obama
+ORG: ISIS
+PERSON: Trump
+PERSON: Obama
+ORG: FALN
+PERSON: Oscar Lopez Rivera
+PERSON: Chelsea Manning
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+ORG: CIA
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Trump
+PERSON: Obama
+PERSON: Barack Obama's
+PERSON: Trump
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Barack Obama's
+PERSON: Obama
+PERSON: Trump
+ORG: Trans-Pacific Partnership
+PERSON: Obama
+PERSON: Obama
+PERSON: Trump
+PERSON: Trump
+PERSON: Obama
+PERSON: Obama
+PERSON: Trump
+PERSON: Obama
+PERSON: Trump
+PERSON: Obama
+DATE: Days
+PERSON: Trump
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Obama
+PERSON: Trump
+PERSON: Obama
+DATE: 10 Days
