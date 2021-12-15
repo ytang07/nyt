@@ -30,15 +30,15 @@ Obama Digs In for His BlackBerry. : 0.0
 Bill Clinton Asks for Money for Obama Inauguration. : 0.0
 Video: Obama Talks about Wall Street. : 0.0
 Advocates of a Special Prosecutor for Bush Seek an Answer From Obama. : 0.35714285714285715
- : 0.0Obama Is Reported Set to Revise Counterterrorism Efforts.
- : 0.0Obama's Economic Speech. : 0.2
+Obama Is Reported Set to Revise Counterterrorism Efforts.
+Obama's Economic Speech. : 0.2
 Obama Pick to Analyze Broad Powers of President. : 0.0625
 The Early Word: Obama Defends Economic Plan. : 0.15000000000000002
 Obama Presses for Action on the Economy. : 0.1
 Obama Is Urged to Open High-Tech Exports. : 0.0
 Obama Predicts a Florida Victory. : 0.0
- : 0.0Predictions for Obama's Iraq. : 0.0
- : 0.0Obama and Gaza. : 0.0
+Predictions for Obama's Iraq. : 0.0
+Obama and Gaza. : 0.0
 New Obama Poster for Inauguration. : 0.13636363636363635
 Obama Speech Pushes Clean Energy. : 0.3666666666666667
 Obama Hears Parting Advice as Power Shifts. : 0.0
@@ -139,7 +139,7 @@ Michelle Obama as New York's Next Senator?. : 0.0909090909090909
 Obama Renovates WhiteHousegov. : 0.0
 Road Trip: 'For You, Obama!'. : 0.0
 Obama's inauguration. : 0.0
- : 0.0Recollections of Obama's Ex-Roommate. : 0.0
+Recollections of Obama's Ex-Roommate. : 0.0
 Obama Has No Quick Fix for Banks. : -0.16666666666666666
 A Day of New Beginnings for Michelle Obama and Her Daughters. : 0.13636363636363635
 News Sites Struggle to Stream Obama Video. : 0.0
@@ -178,7 +178,7 @@ Obama Orders Secret Prisons and Detention Camps Closed. : -0.325
 Obama's Emo America. : 0.0
 Obama's New 'BlackBerry' May Run Windows
 China: : 0.13636363636363635Obama, Can You?. : 0.0
- : 0.0Indonesia: Questions for President Obama. : 0.0
+Indonesia: Questions for President Obama. : 0.0
 George W Obama. : 0.0
 African Blogosphere On Obama's Inauguration. : 0.0
 Obama, Channeling Bush?. : 0.0
@@ -190,8 +190,8 @@ Obama Plans Fast Action to Tighten Financial Rules. : 0.12500000000000003
 Obama's Partisan, Profane Confidant Reins It In. : 0.0
 Obama Reverses Rules on US Abortion Aid. : 0.0
 Strikes in Pakistan Underscore Obama's Options. : 0.0
-Web Prank Links 'Obama' With 'Failure'.
-Inauguration | : -0.3166666666666667Michelle Obama's Landslide. : 0.0
+Web Prank Links 'Obama' With 'Failure'. Inauguration : -0.3166666666666667
+Michelle Obama's Landslide. : 0.0
 Obama May Carry Top-Secret PDA. : 0.0
 Obama's Web
 The Obama Media Party Is Over. : 0.0
@@ -204,7 +204,7 @@ The Youngest Obama Flips for Video. : 0.0
 Obama Directs Regulators to Tighten
 Hartmarx, Obama's Clothier, Files for Bankruptcy. : 0.0
 Obama Aide Joins Ogilvy as Adviser. : 0.0
- : 0.0Discussing Obama's Emissions Move. : 0.0
+Discussing Obama's Emissions Move. : 0.0
 On Arab TV Network, Obama Urges Dialogue. : 0.0
 Obama Tells Arab World US Will 'Start by Listening'. : 0.0
 'Offering Obama's Senate Seat to Oprah?'.
@@ -216,8 +216,8 @@ Morning Skim: Blagojevich Blitz, Davos Shift and Obama's Message to the Middle E
 After Obama Overture, Iran's Leader Seeks US Apology. : 0.0
 Aides Say Obama's Afghan Aims Elevate War. : 0.0
 Gloom and Doom and Barack Obama.
-Obama Holds Reception for Congressional Leaders.
- : -0.13333333333333333Obama's Letter From Bush. : 0.0
+Obama Holds Reception for Congressional Leaders. : -0.13333333333333333
+Obama's Letter From Bush. : 0.0
 Obama Seeks Accord With Military on Iraq. : -0.1
 Obama Signs Equal-Pay Legislation. : 0.0
 Obama's New Chef Skewers School Lunches. : 0.13636363636363635
@@ -251,8 +251,7 @@ Will Obama Boost US World Cup Bid?. : 0.0
 Obama Makes Unannounced Visit to Charter School. : 0.0
 Daschle Ends Bid for Post; Obama Concedes Mistake. : 0.0
 Obama Woos GOP With Attention, and Cookies. : 0.0
- : 0.0On Iran, Obama Plans Talk and Some Toughness. : 0.0
-Obama
+On Iran, Obama Plans Talk and Some Toughness. : 0.0
 Obama Announces New Rules on Executive Compensation. : 0.13636363636363635
 Obama's State-by-State Stimulus Pitch. : 0.0
 Obama Announces New Rules on Executive Pay. : 0.13636363636363635
@@ -294,7 +293,6 @@ At Town Hall Rally, Obama Pushes Stimulus Plan. : 0.0
 Foreign Trip Not on Obama's Behalf. : -0.125
 Shepard Fairey Sues Associated Press Over Obama Poster. : 0.0
 Artist Sues The AP Over Obama Image. : 0.0
-Obama
 Obama: 'I'm Always Good for a Beer'. : 0.7
 Check Point: Obama's Economic Yardsticks. : 0.2
 Obama Makes Case as Bill Clears Hurdle. : 0.0
@@ -464,7 +462,7 @@ Obama Calls for Military Dialogue With China. : -0.1
 Obama's Chief Economic Adviser on the Crisis. : 0.2
 Michelle Obama Talks About Her Role. : 0.0
 US Has the Capacity to Prosper, Obama and Volcker Say. : 0.0
-, Obama Turns to Five. : 0.0
+Obama Turns to Five. : 0.0
 Obama Says He Will Review Request for Guard on Border. : 0.0
 Bankruptcy Lawyer Joins Obama Auto Team. : 0.0
 Obama Voices Optimism on the Economy. : 0.0
@@ -476,7 +474,7 @@ Obama's Statement on AIG. : 0.0
 Obama Acts to Aid Small Businesses. : -0.25
 Obama Announces Plan to Aid Small Businesses. : -0.25
 Obama to Appear on 'Tonight Show'. : 0.0
- : 0.0SXSW: : 0.0Polling Guru Says Economy Could Drag Down Obama. : -0.1277777777777778
+Polling Guru Says Economy Could Drag Down Obama. : -0.1277777777777778
 Obama Sends Daniel Rooney to Dublin. : 0.0
 Obama in Effort to Undo Bonuses at AIG. : 0.0
 Obama Acts to Aid Small Businesses. : -0.25
@@ -493,7 +491,7 @@ Obama to Back UN Gay Rights Decree. : 0.3125
 AIG Chief Speaks, Bankers' Holiday, Obama's Cool and More. : 0.425
 Obama Administration to Stop Raids on Medical Marijuana Dispensers. : 0.0
 Michelle Obama Advises Anacostia Students. : 0.0
- : 0.0Topping Science Prize With Obama Visit. : 0.0
+Topping Science Prize With Obama Visit. : 0.0
 Obama Tours Edison Plant in California. : 0.0
 Obama, Peres and Colbert on the Persian New Year. : 0.13636363636363635
 Obama on 'Leno'.
@@ -530,11 +528,11 @@ Dr  Doom Finds Promise in Obama's Toxic-Asset Plan. : 0.0
 Live Blog: Obama's News Conference. : 0.13636363636363635
 Obama (and Some Friends) Call Astronauts. : 0.0
 In a Volatile Time, Obama Strikes a New Tone. : 0.13636363636363635
-, Obama Is No Sell Out. : 0.0
+Obama Is No Sell Out. : 0.0
 Problems Persist, but Arts Advocates See Progress Under Obama. : 0.0
 Obama Is Expected to Meet With Top Bankers. : 0.35
 What to Watch for During Obama's News Conference. : 0.0
-, Activist Groups Start Ad Campaigns on Obama Budget. : 0.0
+Activist Groups Start Ad Campaigns on Obama Budget. : 0.0
 Obama on the Hill. : 0.0
 Obama to Answer Online Questions. : 0.0
 Iran's Parliament Speaker Disparages Obama's Video Overture. : 0.0
@@ -564,20 +562,20 @@ Obama's Remarks on the Auto Industry. : 0.0
 Obama Visit to Notre Dame Provokes Debate. : 0.0
 Obama's NBA Picks. : 0.0
 Obama Continues to Warn Banks on Excesses. : 0.0
- : 0.0Understanding Obama's Auto Warranty Plan. : 0.0
+Understanding Obama's Auto Warranty Plan. : 0.0
 Obama Goes to Lawmakers on Budget. : 0.0
- : 0.0For Mourning, Tears, Note From Obama and a Place in Heat History. : 0.0
+For Mourning, Tears, Note From Obama and a Place in Heat History. : 0.0
 Obama Administration Has First Face-to-Face Contact With Iran. : 0.25
 Obama Urges Sudan to Allow Aid Groups Back Into the Country. : 0.0
 Obama Issues Signing Statement With Public Lands Bill. : 0.0
- : 0.0Reactions to Obama's Plan for Automakers. : 0.0
+Reactions to Obama's Plan for Automakers. : 0.0
 Obama Arrives for Economic Summit. : 0.2
 Obama Will Headline Fund-Raiser for Senate Majority Leader. : 0.0
 Obama's Ersatz Capitalism. : 0.0
 Eyes of the World Are on Obama. : 0.0
 Photos: Obama on the World Stage. : 0.0
 Obama, in Europe, Faces Big Challenges to Agenda. : 0.0
-, Obama Faces Calls for Rules on Finances. : 0.0
+Obama Faces Calls for Rules on Finances. : 0.0
 Storm Clouds Gather Over Obama Nominees. : 0.0
 Obama and Brown Urge United Action on World Economy. : 0.1
 Obama Resists Calls for New Bank Rules. : 0.13636363636363635
@@ -611,7 +609,7 @@ Obama Reading Watch. : 0.0
 Obama Engages the Young Turks. : 0.1
 Tar Heels Help Obama Rebound in Bracket. : 0.0
 Oil Giants Loath to Follow Obama's Green Lead. : -0.2
- : 0.0Photos: Obama's First Overseas Trip as President. : 0.25
+Photos: Obama's First Overseas Trip as President. : 0.25
 When Obama Becomes Just Bam. : 0.0
 The Obama Campaign, Updated.
 Morning Skim: Obama in Iraq, Israeli Settlements, Russian Relations and More. : 0.25
@@ -659,7 +657,7 @@ A Hard-Charging Doctor on Obama's Team. : 0.0
 Despite Major Plans, Obama Taking Softer Stands. : 0.0625
 Struggling to Keep His Senate Seat, Dodd Gets Help From Obama. : 0.0
 Obama Promises to Trim Federal Fat. : 0.0
- : 0.0Picking Letters, 10 a Day, That Reach Obama. : 0.0
+Picking Letters, 10 a Day, That Reach Obama. : 0.0
 But Can Obama Make the Trains Run on Time?. : 0.0
 Obama's Revenue Plans Hit Resistance in Congress. : 0.0
 But Can Obama Make the Trains Run on Time?. : 0.0
@@ -709,7 +707,7 @@ Obama's Cabinet Is Now Complete. : 0.1
 Obama Orders Review of Jet Flyover. : 0.0
 Obama Finds That Saving on Copters Could Be Costly. : 0.0
 Obama Welcomes Specter to the Party. : 0.0
- : 0.0From Obama's Statement. : 0.0
+From Obama's Statement. : 0.0
 Why President Obama Needs to Tweet.
 Obama Reading Watch, 100 Days Edition. : 0.0
 Personal Experience Weighs on Obama in Health Policy Debate. : 0.0
@@ -806,7 +804,7 @@ Obama Tells Netanyahu He Has an Iran Timetable. : 0.0
 Obama, With Help, Makes Anti-Nuclear Push. : 0.0
 Va Democrats Play a Rerun of Clinton vs Obama. : 0.0
 Obama Seeks Advice on Nuclear Weapons. : 0.0
- : 0.0Is Obama the 'Boss'?. : 0.0
+Is Obama the 'Boss'?. : 0.0
 Obama Interviews Wood for Supreme Court Seat. : 0.0
 Obama's Speech May Not Appease Critics, on the Left or Right. : 0.21428571428571427
 Obama Is Said to Consider Preventive Detention Plan. : 0.0
@@ -905,7 +903,7 @@ Interactive: Obama's Cairo Speech. : 0.0
 At a Holocaust Site, Obama Calls Denial 'Hateful'. : 0.0
 Obama Giveth and the AMT Taketh Away. : 0.0
 Morning Skim: Did Obama Hit the Right Notes?. : 0.2857142857142857
- : 0.0Photos: Obama's One-Day Visit to Germany. : 0.0
+Photos: Obama's One-Day Visit to Germany. : 0.0
 Among Israel's US Backers, Anxiety and Some Support Greet Obama's Words. : 0.0
 Obama Urges Effort on Health Care. : 0.0
 Weekend Opinionator: Obama in Cairo, as Seen From Tel Aviv. : 0.0
@@ -988,9 +986,9 @@ Scrapbook Evolves for the Obama Age. : 0.0
 Obama Opposes Trade Sanctions in Climate Bill. : 0.0
 Climate, trade, Obama. : 0.0
 Obama Steers Health Debate Out of Capital. : 0.0
- : 0.0Neda, Obama and the Power of Pictures. : 0.0
+Neda, Obama and the Power of Pictures. : 0.0
 Obama Toughens Rules for Some Lighting. : 0.0
-, Obama Asks to Be Judged on Vows Kept. : 0.0
+Obama Asks to Be Judged on Vows Kept. : 0.0
 Obama Quietly Marks Troop Withdrawal in Iraq. : 0.0
 A Thank You, and a Koran, for Obama. : 0.0
 Obama's Health Care Town Hall. : 0.0
@@ -1002,14 +1000,14 @@ Preparing for Trip to Russia, Obama Praises Putin's Protege, at Putin's Expense.
 Obama Raises Concerns About Freedom and Judicial Independence in Russia. : 0.0
 As Obama Visits, Russian TV Alters Take on US. : 0.0
 Obama's Youth Shaped His Nuclear-Free Vision. : 0.0
-, Obama to Take On Power Equation. : 0.0
- : 0.0Photos: Obama in Moscow. : 0.0
+Obama to Take On Power Equation. : 0.0
+Photos: Obama in Moscow. : 0.0
 Visiting Russia, Obama Brings $15 Billion in Deals. : 0.0
 Morning Skim: Biden on Iran, Obama in Russia. : 0.0
 Obama Resets Ties to Russia, but Work Remains. : 0.0
 Obama Overrides Aide on Health Insurance 'Public Option'. : 0.0
 The Morning Skate: Obama Loves Ovie, Blackhawks Love Trouble [UPDATED]. : -0.02500000000000001
-, Obama's Star Power Does Not Translate. : 0.0
+Obama's Star Power Does Not Translate. : 0.0
 Union Leaders to Meet With Obama Next Week. : 0.0
 Can Obama Keep Pledge to Lead on Climate?. : 0.0
 Obama Warns of Return of Swine Flu in the Fall. : 0.0
@@ -1114,7 +1112,6 @@ Obama Arrives in Mexico for Start of Summit. : 0.0
 Obama's Embrace of a Bush Tactic Riles Congress. : 0.0
 Obama Sets Immigration Changes for 2010. : 0.0
 As Health Care Debate Rages, Obama Takes to the Stump. : 0.0
-The Volgograd Obama.
 Obama Offers Reassurance on Plan to Overhaul Health Care. : 0.1
 Obama Proposes Rules on Trading in Derivatives. : 0.0
 Obama Proposes Rules on  Derivatives Trade. : 0.0
@@ -1124,7 +1121,7 @@ Obama Is Taking an Active Role in Talks on Health Care Plan. : -0.13333333333333
 President Obama the Trout Fisherman. : 0.0
 Host Loses Some Sponsors After an Obama Remark. : -0.3
 Obama Proposal to Create Medicare Panel Meets With Resistance. : 0.0
- : 0.0Today: : 0.0Obama Hosts Town Hall in Montana. : 0.0
+Obama Hosts Town Hall in Montana. : 0.0
 Obama Says Insurers Are Trying to Block Change. : 0.0
 Health Debate Fails to Ignite Obama's Grass Roots. : -0.5
 Live Blogging: : 0.13636363636363635Obama Hosts a Town Hall in Montana. : 0.0
@@ -1166,7 +1163,7 @@ Obama Reading Watch, August Edition. : 0.0
 Obama Family Resumes Vacation. : 0.0
 Obama Curtails Vacation for Kennedy's Funeral. : 0.0
 For Obama, Golfing Is a Very Leisurely Pursuit. : 0.2
- : 0.0Chic in Review | Michelle Obama's Shoe of Choice. : 0.0
+Chic in Review | Michelle Obama's Shoe of Choice. : 0.0
 Obama Vows to Speed Hurricane Katrina Recovery Effort. : 0.0
 White House Defends Obama's Visibility on Health Care Debate. : 0.0
 Sri Lankan Editor Lauded by Obama Is Sentenced to 20 Years. : 0.0
@@ -1211,8 +1208,8 @@ Obama Will Emphasize Security, Not Public Option, in Speech. : 0.0
 Obama on a 'Difficult Time for Journalism'. : -0.5
 Republican Leaders Offer a Little 'Prebuttal' to Obama's Speech. : -0.1875
 Obama, Armed With Details, Says Health Plan Is Necessary. : 0.0
- : 0.0The Wikipedia Battle Over Joe Wilson's Obama Heckling.
- : 0.0Wikipedia's Rapid Reaction to Outburst During Obama Speech. : 0.0
+The Wikipedia Battle Over Joe Wilson's Obama Heckling.
+Wikipedia's Rapid Reaction to Outburst During Obama Speech. : 0.0
 Check Point: Examining Obama's Assertions. : 0.0
 What Was Missing in Obama's Speech. : -0.2
 Obama Accepts Wilson's Apology. : 0.0
@@ -1260,7 +1257,7 @@ Letterman to Interview Obama on Monday. : 0.0
 Obama Follows Bush on Salmon Recovery. : 0.0
 Obama Raises Money for Specter. : 0.0
 Obama, Appealing to a Core Ally, Rallies Labor to His Policies. : 0.5
-, Obama Is Raising the Health Care Ante. : 0.0
+Obama Is Raising the Health Care Ante. : 0.0
 As Race Debate Grows, Obama Steers Clear of It. : 0.10000000000000002
 Obama Says Chicago Is 'Ready' to Win Bid for 2016. : 0.5
 Obama Offers Ways to Rate Efforts in Afghan Region. : 0.1
@@ -1311,9 +1308,9 @@ Volcker Warns Obama Plan Leaves Opening for Bailouts. : 0.0
 Meanwhile, Next Door, It's Team Obama for Corzine. : 0.0
 In Poll, Public Wary of Obama on War and Health. : -0.25
 Obama May Head to Copenhagen, After All. : 0.0
- : 0.0Statements by Obama, Brown and Sarkozy. : 0.0
+Statements by Obama, Brown and Sarkozy. : 0.0
 Obama, Brown Meet After All. : 0.0
- : 0.0Video of Obama's Statement on Iran. : 0.0
+Video of Obama's Statement on Iran. : 0.0
 A Critic Finds Obama Policies a Perfect Target. : 1.0
 Same-Face Obama. : 0.0
 From Obama, G-20's Mission as Tim Sees It. : 0.0
@@ -1325,7 +1322,7 @@ Obama and the Black Caucus, Together Again. : -0.16666666666666666
 In Pitch for Games, a Gamble for Obama. : 0.0
 Obama's Olympic Moment. : 0.0
 GOP Leader Raps Obama's Olympics Trip. : 0.0
- : 0.0From McChrystal's Mouth to Obama's Ear. : 0.0
+From McChrystal's Mouth to Obama's Ear. : 0.0
 Michelle Obama to Appear on 'Sesame Street'. : 0.0
 A Problem for Obama. : 0.0
 An Obama Phone Call, But Senator Rockefeller Makes No Commitments. : 0.0
@@ -1334,7 +1331,7 @@ For Obama, an Unsuccessful Campaign. : 0.0
 The Gamble for Obama in a Copenhagen Return. : 0.0
 Obama Meets Top Afghan Commander as He Mulls Change in War Strategy. : 0.5
 'The Obama Visit'.
- : 0.0An Olympian Defeat for Obama. : 0.0
+An Olympian Defeat for Obama. : 0.0
 Obama, Biden Talk About Unemployment News. : 0.0
 Obama Aide Concedes Climate Law Must Wait. : 0.0
 Obama to Address Gay Rights Organization. : 0.4166666666666667
@@ -1375,7 +1372,7 @@ The Drawbacks of a Colorblind Campaign in an Obama-Mad City. : 0.0
 Obama Announces Small-Business Lending Push. : 0.0
 Obama Presses Case for Renewable Energy. : 0.0
 Obama Daughters Get Swine Flu Shots. : 0.0
-, Obama Trip Trips Up Governor. : 0.0
+Obama Trip Trips Up Governor. : 0.0
 No Rushing on Decisions, Obama Says. : 0.0
 Obama Isn't on the Ballot in Virginia Governor's Race, and Yet . : 0.0
 Obama's Fund-Raising, in His Best Interest. : 1.0
@@ -1399,7 +1396,7 @@ Obama Offers Sympathy and Urges No 'Jump to Conclusions'.
 Inspired by Obama : 0.1, Navy Quarterback's Sights Are Set on
 Obama Seeks Revision of Plan's Abortion Limits. : 0.0
 Obama Salutes Fallen Americans on Veterans Day. : 0.0
- : 0.0Remarks of President Barack Obama. : 0.0
+Remarks of President Barack Obama. : 0.0
 3 Obama Advisers Favor More Troops for Afghanistan. : 0.5
 Obama Purposely Taking Time on Troop Decision. : 0.0
 Among Obama Aides, Debate Intensifies on Troop Levels. : 0.0
@@ -1423,7 +1420,7 @@ Obama Demands Afghan Reforms Produce Results. : 0.0
 Obama Demands Results From Afghan Reforms. : 0.0
 Obama Takes Stern Tone on North Korea and Iran. : 0.0
 Obama Says Guantanamo Won't Close by January. : 0.0
- : 0.0In Obama Intervie. : 0.0
+In Obama Intervie. : 0.0
 Obama Ends China Trip With Visit to the Great Wall. : 0.8
 Clinton Seen as Obama's Key Link to Afghan Leader. : 0.0
 South Korea Trade Pact Is Revived by Obama. : 0.0
@@ -1465,7 +1462,7 @@ Obama's Political Quandary Grows. : 0.0
 Obama Says Afghan Buildup Must Show Results. : 0.0
 Obama Presses Biggest Banks to Lend More. : 0.5
 Obama Health Care Meeting Aims to Rally Senators. : 0.0
- : 0.0Putting Obama on Hold, in a Hint of Who's Boss. : 0.0
+Putting Obama on Hold, in a Hint of Who's Boss. : 0.0
 Obama Tells Prison to Take Detainees. : 0.0
 Obama Interviewer in China Is Said to Be Demoted. : 0.0
 Obama Has Goal to Wrest a Deal in Climate Talks. : 0.0
@@ -1478,5 +1475,4 @@ Legislative Limbo Strands Many of Obama's Nominees. : 0.5
 US Had Early Signals of a Terror Plot, Obama Says. : 0.1
 Obama Curbs Secrecy of Classified Documents. : 0.0
 No-Commoner Obama. : 0.0
-In Cuba, Hopeful Tenor Toward Obama Is Ebbing.
- : 0.0
+In Cuba, Hopeful Tenor Toward Obama Is Ebbing. : 0.0

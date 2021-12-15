@@ -17,7 +17,7 @@ Obama Announces Institute to Create Manufacturing Jobs. : 0.0
 On Spying, Woes of Obama Echo Those of Past Presidents. : -0.25
 Obama's Path From Critic to Overseer of Spying. : 0.0
 Obama Lauds Pledges to Expand College Opportunities. : 0.0
- : 0.0Analysis of Obama's NSA Speech. : 0.0
+Analysis of Obama's NSA Speech. : 0.0
 Times Minute | Examining Obama's Speech.
 Obama Outlines Calibrated Curbs on Phone Spying. : 0.0
 In Keeping Grip on Data Pipeline, Obama Does Little to Reassure Industry. : -0.1875
@@ -106,7 +106,7 @@ With Eye on Midterms, Obama Pushes Rise in Minimum Wage. : 0.0
 Clinton Ratchets Up Criticism of Putin and Backs Obama. : 0.0
 Three Worthwhile Initiatives in the Obama Budget. : 0.5
 President Obama and Aide Speak on Ukraine. : 0.0
-'s Obama's Fault But Ignore That. : 0.0
+Obama's Fault But Ignore That. : 0.0
 With Netanyahu, Obama Plays Bad Cop to Kerry's Good Cop. : 7.401486830834377e-17
 House Republicans Balk at Wording in Obama Emergency Aid Package for Ukraine. : 0.0
 Obama Team Debates How to Punish Russia. : 0.0
@@ -137,12 +137,12 @@ South Korean and Japanese Leaders to Join Obama at Meeting. : 0.0
 Obama and Tech Executives to Meet Again on Privacy Issues. : 0.0
 Catholic Roots of Obama's Activism. : 0.0
 In Beijing Talk, Michelle Obama Extols Free Speech. : 0.4
-Times Minute | : 0.0Obama's Overseas Trip. : 0.0
+Obama's Overseas Trip. : 0.0
 Obama and Allies Seek Firm, United Response as Russia Grips Crimea. : -0.2
 Obama Juggles Itinerary in Bid to Ease Tensions Between Two Asian Allies. : 0.0
 Belgian Paper Apologizes Over Racist Images of Obama Used in Satire. : 0.0
 Obama to Call for End to NSA's Bulk Data Collection. : 0.0
-Times Minute | : 0.0Michelle Obama in China. : 0.0
+Michelle Obama in China. : 0.0
 Obama Renewing US Commitment to NATO Alliance. : 0.0
 Obama Says NSA Curbs Would Address Worries. : 0.0
 Obama Pays Tribute at Graves of World War I Soldiers. : 0.0
@@ -158,7 +158,7 @@ Obama Trip Spurs Inquiry of Behavior by a Marine. : 0.0
 Obama Claims Victory in Push for Insurance. : 0.0
 Years After Obama Hailed Warming Ties With India, the Temperature Has Fallen. : 0.0
 After Push by Obama, Minimum-Wage Action Is Moving to the States. : 0.1
-| Obama Claims Victory in Push for Insurance. : 0.0
+Obama Claims Victory in Push for Insurance. : 0.0
 Obama Announces Grants to Schools to Integrate Work Experiences. : 0.0
 Obama Signs Measures to Help Close Gender Gap in Pay. : 0.0
 Pressing Obama's Agenda, Maryland Lawmakers Raise Minimum Wage. : 0.0
@@ -234,13 +234,12 @@ Obama to Detail a Broader Foreign Policy Agenda. : -0.125
 Governments Await Obama's Move on Carbon to Gauge US Climate Efforts. : 0.0
 Obama Makes Surprise Trip to Afghanistan. : 0.0
 Colleges Rattled as Obama Seeks Rating System . : 0.0
- : 0.0Q's About the News | : 0.0US Will Complete Afghan Pullout by End of 2016, Obama Says. : 0.1
+US Will Complete Afghan Pullout by End of 2016, Obama Says. : 0.1
 Obama Asks Homeland Security Secretary to Delay Deportation Review. : 0.0
 Obama Meets Scientists, One Age 6. : 0.0
-'s News in Washington: Obama to Outline Foreign Policy Agenda. : -0.125
- : 0.0Reaction to President Obama's West Point Speech. : 0.0
+News in Washington: Obama to Outline Foreign Policy Agenda. : -0.125
+Reaction to President Obama's West Point Speech. : 0.0
 Obama Warns US Faces Diffuse Terrorism Threats. : 0.0
-Did Obama Make His
 Obama's Conference on Concussions Was Too Long in Coming. : -0.05
 Clinton-Obama Lunch Hints at Continuing and Close Ties. : 0.0
 VA Chief Eric Shinseki, Set to Meet Obama, Apologizes for 'Systemic' Crisis. : 0.0
@@ -248,17 +247,17 @@ Using Executive Powers, Obama Begins His Last Big Push on Climate Policy. : 0.0
 In Obama's Speeches, a Shifting Tone on Terror. : 0.0
 Obama to Take Action to Slash Coal Pollution. : 0.1
 With Ukraine Still Unsettled, Obama Sets Off to Soothe European Friends. : 0.0
- : 0.0Reaction to Obama Administration Carbon Emissions Proposal. : 0.0
+Reaction to Obama Administration Carbon Emissions Proposal. : 0.0
 Taking Page From Health Care Act, Obama Climate Plan Relies on States. : 0.0
 Tracking Obama's Climate Rules for Power Plants. : 0.0
- : 0.0Rhetoric and Realities Around Obama's 'Carbon Pollution' Power Plant Rules. : 0.0
+Rhetoric and Realities Around Obama's 'Carbon Pollution' Power Plant Rules. : 0.0
 Obama Defends Swap of Taliban for American POW. : 0.0
 As Obama Acts on Pollution and Bergdahl, GOP Talks of an Erosion of Trust. : 0.0
 New Member of Obama's Economic Team Has International Expertise. : 0.1494949494949495
 Obama, Seeking Unity on Russia, Meets Obstacles. : -0.05
 Iran's Leader Says Obama Has Removed Military Option. : -0.1
 Deal to Free Bowe Bergdahl Puts Obama on Defensive. : 0.4
- : 0.0Analysis of President Obama's Speech. : 0.0
+Analysis of President Obama's Speech. : 0.0
 American Jailed in Egypt Appeals to Obama for Help. : 0.0
 With Group of 7 Backing, Obama Gives Russia One-Month Ukraine Deadline. : 0.0
 What's News in Washington: Obama Talks Climate Change at Summit. : 0.0
@@ -335,7 +334,7 @@ Obama Likely to Seek Additional Time for Nuclear Negotiations With Iran. : 0.0
 Public Problems, Private Dollars: Obama Seeks Infrastructure Repair Money. : 0.0
 What's News in Washington: Obama Strengthens Sanctions Against Russia. : 0.0
 Suspicious Package Delays Obama's Return Home. : 0.0
- : 0.0Blaming President Obama. : 0.0
+Blaming President Obama. : 0.0
 Obama Says Plane Was Shot Down From Rebel-Held Ukraine Area. : -0.15555555555555559
 President Obama Weighs In on the Malaysian Airliner Crisis. : 0.0
 Obama to Issue Order Barring Anti-Gay Bias by Contractors. : 0.0
@@ -352,9 +351,9 @@ Obama Administration Presses for Retroactive Legislation on Tax Inversions. : 0.
 GOP Plan on Migrants Calls for Less Cash Than Democrats and Obama Seek. : -0.16666666666666666
 For Obama, Protectiveness About Daughters Gives Way to Pride. : 0.0
 Obama and the Myth of Presidential Control. : 0.0
-| Upheavals Around the World Challenge Obama and US Foreign Policy. : -0.125
+Upheavals Around the World Challenge Obama and US Foreign Policy. : -0.125
 Obama Seeks to Close Loophole That Firms Use to Shield Profits Abroad. : 0.0
- : 0.0Meditation on President Obama's Portrait. : 0.0
+Meditation on President Obama's Portrait. : 0.0
 Obama Presses Central American Leaders to Slow a Wave of Child Migrants. : -0.10000000000000002
 Ex-Obama Aide's Statements in 2012 Clash With Health Act Stance. : 0.0
 House GOP Plan on Migrants Falls Short of Obama's Goal. : 0.0
@@ -373,8 +372,8 @@ Obama Signs Bill Aimed at Fixing VA Shortfalls. : 0.0
 Bipartisan Support, With Caveats, for Obama on Iraq Airstrikes. : 0.0
 Iraq Airstrikes May Continue for Months, Obama Says. : 0.0
 Obama Says Iraq Airstrike Effort Could Be Long-Term. : 0.0
- : 0.0While Offering Support, Obama Warns That US Won't Be 'Iraqi Air Force'.
- : 0.0A Rift in Worldviews Is Exposed as Clinton Faults Obama on Policy. : 0.0
+While Offering Support, Obama Warns That US Won't Be 'Iraqi Air Force'.
+A Rift in Worldviews Is Exposed as Clinton Faults Obama on Policy. : 0.0
 Obama Pledges Support for a New Iraqi Leader. : 0.13636363636363635
 Remarks Were Not an Attack, Hillary Clinton Tells Obama. : 0.0
 Prepping for the Obama Interview. : 0.0
@@ -422,11 +421,11 @@ Obama Hosts Foreign Policy Experts, Laying Groundwork for Speech on ISIS. : -0.1
 As Obama Makes Case, Congress Is Divided on Campaign Against Militants. : 0.0
 Obama Ready to Authorize Airstrikes on ISIS in Syria. : 0.2
 Obama, in Speech on ISIS, Promises Sustained Effort to Rout Militants. : 0.0
- : 0.0Highlights From Obama's Speech on ISIS. : 0.0
+Highlights From Obama's Speech on ISIS. : 0.0
 Dick Cheney and Other Republicans Throw Stones at Obama From Glass House. : -0.125
 The House, in Rare Unity With Obama, Will Leave the Trail for an ISIS Vote. : 0.3
- : 0.0Preparing for Obama's Speech. : 0.0
- : 0.0Q's About the News | : 0.0Obama, in Speech on ISIS, Promises Sustained Effort to Rout Militants. : 0.0
+Preparing for Obama's Speech. : 0.0
+Q's About the News | : 0.0Obama, in Speech on ISIS, Promises Sustained Effort to Rout Militants. : 0.0
 Obama's Speech on Terror Draws 34 Million Viewers. : 0.0
 Former Microsoft Executive and Obama Adviser Joins Venture Firm. : -0.15000000000000002
 Obama Sees Iraq Resolution as a Legal Basis for Airstrikes, Official Says. : 0.2
@@ -477,8 +476,8 @@ The Obama Economy: Click to Share. : -0.1
 Obama Spotlights Rejuvenated Economy. : 0.0
 Strong Jobs Data Bolsters Obama's Economic Message. : 0.31666666666666665
 Her Last Name Is Obama . : 0.0
-, Obama Trumpets Economic Success as Midterm Vote Nears. : 0.25
- : 0.0From Obama's Lips to Kansas Attack Ad, in Under 24 Hours. : 0.0
+Obama Trumpets Economic Success as Midterm Vote Nears. : 0.25
+From Obama's Lips to Kansas Attack Ad, in Under 24 Hours. : 0.0
 Michelle Obama Both Asset and Liability on Campaign Trail. : 0.0
 An Obama Ally Parts With Him on War Powers.
 Ebola Screening at Airports Will Increase, Obama Says .
@@ -507,7 +506,7 @@ Is Obama a Great President or a Drag on th. : 0.35000000000000003
 Obama Cancels More Travel to Oversee Ebola Response, Urging 'Aggressive' Action. : 0.3
 Obama to Press for Economic Deals in 2015, Aides Say. : 0.2
 Obama May Name 'Czar' to Oversee Ebola Response. : 0.0
- : 0.0Borrowing Obama's Fund-Raising List, for a Price. : 0.0
+Borrowing Obama's Fund-Raising List, for a Price. : 0.0
 Obama Names Ron Klain Ebola 'Czar'. : 0.0
 Obama Names Democratic Operative to Coordinate Ebola Response . : 0.0
 Obama Is Missing in Action in Iowa Debate. : 0.025
@@ -524,7 +523,7 @@ Obama Votes Early. : 0.1
 Verbatim: Obama as Supreme Court Justice?. : 0.0
 Might Want to Count Again, Mrs Obama. : 0.0
 Shaheen Advice to Obama: No Need to Come to New Hampshire. : 0.13636363636363635
-, Uneasy Democrats Show Obama Their Tail Lights. : 0.0
+Uneasy Democrats Show Obama Their Tail Lights. : 0.0
 Verbatim: Obama Offers Reassurance on Ebola. : 0.1
 Obama Could Replace Aides Bruised by a Cascade of Crises . : 0.0
 From the Bleachers, Jordan Jaws Obama's Swing. : 0.0
@@ -537,7 +536,7 @@ Day in an Elevator With Obama, Then Out of a Job. : 0.0
 Obama Lending Support, but Only in Democratic Bulwarks. : 0.0
 Wistful but Having Fun, Obama Gives Last Push . : 0.22499999999999998
 Braced for a Shift in Congress, Obama Is Setting a New Agenda . : 0.13636363636363635
- : 0.0Immigration and Obama's Swoon. : 0.0
+Immigration and Obama's Swoon. : 0.0
 President Obama Is Not a Happy Warrior. : 0.2
 Where Might Obama and the GOP Agree? : 0.0
 After Election, Obama Vows to Work With, and Without, Congress. : 0.0
@@ -546,11 +545,11 @@ Lessons for Obama's Final Two Years From Reagan, Clinton and Bush. : 0.0
 Obama Requests $6 Billion for Ebola. : 0.0
 President Obama Left Fighting for His Own Relevance. : 0.44999999999999996
 Russia Plans to Boycott 2016 Nuclear Meeting Hosted by Obama
- : 0.0Boehner Says Obama Risks 'Burning Himself' on Immigration. : 0.0
+Boehner Says Obama Risks 'Burning Himself' on Immigration. : 0.0
 Obama to Seek Congressional Backing for Military Campaign Against : -0.1
 Cuomo Says Obama's Woes Hurt Democrats in New York Races. : 0.13636363636363635
 Obama Action on Immigration Could Benefit Texas Economy. : 0.1
- : 0.0Details on Obama's Ebola Funding Request. : 0.0
+Details on Obama's Ebola Funding Request. : 0.0
 Obama Makes His Choice for No 2 Post at State Department. : 0.0
 McCain Poised to Press Obama, and Pentagon, at Armed Services Helm. : 0.0
 To China, Shift in Obama's Political Fortunes Eclipses US Economic Gains. : 0.15000000000000002
@@ -592,7 +591,7 @@ Obama Names Fatigue Specialist to Lead Traffic Safety Agency. : 0.0
 Obama Makes Pitch to Expand High-Speed Internet Access to Schools. : 0.0
 McConnell Makes Final Plea to Obama on Immigration. : 0.0
 Obama, Daring Congress, Acts to Overhaul Immigration. : 0.0
- : 0.0Committee on Why It Could Not 'Defund' Obama Steps. : 0.0
+Committee on Why It Could Not 'Defund' Obama Steps. : 0.0
 Obama's Speech: The Duel on Twitter and
 Boehner Says Obama's Immigration Action Damages Presidency. : 0.1
 President Obama Announces Executive Action on Immigration. : 0.1
@@ -639,7 +638,7 @@ A First-Time Guest on Colbert's Farewell Tour: President Obama. : 0.125
 Obama Is Found to Have Symptoms of Acid Reflux. : 0.0
 After Jobs Report, Obama Takes a Little Credit. : -0.1875
 Obama's Net Neutrality Bid Divides Civil Rights Groups . : 0.0
- : 0.0Honors for Some, but a Roast for Obama. : 0.0
+Honors for Some, but a Roast for Obama. : 0.0
 What an Extra $86,824 Gets a Reporter on an Obama Trip. : 0.0
 Michelle Obama in Monique Lhuillier, Opts For a Different Look. : 0.0
 Unrest Over Race Is Testing Obama's Legacy . : 0.0
@@ -660,7 +659,7 @@ Obama Indefinitely Bans Drilling in Alaskan Bay. : 0.0
 Federal Judge Calls Obama's Immigration Actions Unlawful. : 0.0
 As Ruble Falls, Obama to Sign Russia Sanctions Bill. : 0.0
 Family of Former Marine Held in Iran Issues Plea for Obama Not to Forget Him. : 0.0
- : 0.0Video of Obama's Complete Remarks on Cuba. : 0.10000000000000002
+Video of Obama's Complete Remarks on Cuba. : 0.10000000000000002
 Obama Calls Cuba Embargo a Failure. : -0.3166666666666667
 Live Video of President Obama's Remarks on Cuba. : 0.13636363636363635
 Obama Calls on Congress to Lift Embargo. : 0.0
@@ -698,4 +697,3 @@ US Agency Hiring 1,000 After Obama's Immigration Order. : 0.0
 The Obama Bounce. : 0.0
 Obama Says Health Law Is Helping White Americans, Despite Perceptions. : 0.0
 Obama's Trade Chief, Undaunted by Odds, Pushes for Trans-Pacific Partnership. : 0.0
- : 0.0

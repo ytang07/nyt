@@ -118,7 +118,7 @@ Obama Calls World 'Safer' After Pakistan Raid. : 0.0
 Bush Declines Obama's Invitation to Ground Zero. : 0.0
 Obama Honors Victims of Bin Laden at Ground Zero. : 0.0
 For Obama, Big Rise in Poll Numbers After Bin Laden Raid. : 0.0
- : 0.0States Resisting Program Central to Obama's Immigration Strategy. : 0.0
+States Resisting Program Central to Obama's Immigration Strategy. : 0.0
 Station's Only Black Firefighter, Off Duty, Is Not Allowed at Obama's Visit. : -0.08333333333333333
 Obama Elaborates on Bin Laden Raid. : 0.0
 In Border City Talk, Obama Urges GOP to Help Overhaul Immigration Law. : 0.0
@@ -142,8 +142,8 @@ In Britain, Pomp for Obama but Serious Business Too.
 Mrs Obama's American-British Day. : -0.3333333333333333
 Obama's Reference to Kenyan Roots Draws Applause in Britain. : 0.0
 In Address to Parliament, Obama Says US-Britain Alliance Is Still Vital. : 0.1
- : 0.0Video of Obama's Speech to the British Parliament. : 0.0
- : 0.0Video of Obama and Cameron on Libya. : 0.0
+Video of Obama's Speech to the British Parliament. : 0.0
+Video of Obama and Cameron on Libya. : 0.0
 White House Looks to Cast Obama as 'Tough'. : -0.19444444444444445
 Parties See Obama's Israel Policy as Wedge for 2012. : 0.0
 Obama Seeks Aid for Egypt and Tunisia at Meeting. : 0.0
@@ -189,7 +189,7 @@ Boehner Warns Obama on Libya Operations.
 Lautenberg Criticizes Obama on Guns. : 0.1
 Bachmann Accuses Obama of Secret Medicare Plan. : -0.4
 Obama vs Boehner: Tee-Off Time.
- : 0.0Top Lawyers Lost to Obama in Libya War Policy Debate. : 0.5
+Top Lawyers Lost to Obama in Libya War Policy Debate. : 0.5
 House Republicans Question Obama's Use of Autopen. : 0.0
 Obama's Social Media Outposts Join the Campaign. : 0.03333333333333333
 Obama's Views on Gay Marriage 'Evolving'. : 0.4166666666666667
@@ -199,7 +199,7 @@ For Obama, the Politics of War Are Tricky. : 0.0
 Obama to Announce Plans for Afghan Surge Pullout. : 0.0
 Obama T-Shirts: All The Rage in Rural Niger. : 0.0
 Obama to Speak on Afghanistan Drawdown. : 0.0
- : 0.0On Gore's Climate and Obama Complaints. : 0.0
+On Gore's Climate and Obama Complaints. : 0.0
 Cost of Wars a Rising Issue as Obama Weighs Troop Levels. : 0.0
 Afghan Strategy Has Loomed Over Obama Presidency. : 0.0
 Huntsman Be Civil to Obama and Win?.
@@ -280,9 +280,9 @@ Public Gives Obama the Edge on Debt Talks.
 Is Obama Against Romney a Toss-Up?. : 0.0
 Obama to Back Repeal of Law Restricting Marriage. : 0.0
 Obama to Support Repeal of Defense of Marriage Act. : 0.0
- : 0.0Obama vs Romney, an Early Skirmish. : 0.1
+Obama vs Romney, an Early Skirmish. : 0.1
 Boehner and Obama Nearing Deal on Cuts and Taxes. : 0.0
- : 0.0Shakespeare as Performed by Barack Obama, Woody Allen and Droopy Dog. : 0.0
+Shakespeare as Performed by Barack Obama, Woody Allen and Droopy Dog. : 0.0
 Obama / Nixon. : 0.0
 What Obama Was Willing to Give Away. : 0.25
 Writing Again, Third Point's Loeb Takes Swipe at Obama. : 0.0
@@ -292,7 +292,7 @@ Stagecraft of the Obama-Boehner Debt Debate.
 Obama the Moderate Conservative. : 0.0
 Obama to Speak on Debt Crisis. : 0.0
 Obama Calls for Bipartisan Solution on Debt. : 0.0
- : 0.0On the Links, Taking Aim at Obama, and Politics. : 0.0
+On the Links, Taking Aim at Obama, and Politics. : 0.0
 Obama and Bush to Visit New York for 9/11 Anniversary. : 0.13636363636363635
 Obama Reveals Details of Gas Mileage Rules. : 0.0
 Rightward Tilt Leaves Obama With Party Rift. : 0.0
@@ -343,7 +343,7 @@ In the Race to Succeed Weiner, a Surprising Anger at Obama. : 0.0
 For Obama, a Moment to Savor, if Briefly. : 0.0
 Why Another Democrat Wouldn't Do Better Than Obama in 2012. : 0.5
 Perry Versus Obama. : 0.0
- : 0.0Free-Trade Agreements Stuck in Obama-Republican Impasse. : 0.0
+Free-Trade Agreements Stuck in Obama-Republican Impasse. : 0.0
 Obama Vacation Nears End as Hurricane Irene Approaches. : 0.0
 Obama Warns of 'Historic' Storm and Cuts Short Vacation. : 0.0
 Obama's Non-Doctrine Doctrine. : 0.0
@@ -366,10 +366,9 @@ No Slack for Obama's Uncle. : 0.0
 What the Left Doesn't Understand About Obama. : 0.0
 GOP's New Obama Label: President Zero. : 0.13636363636363635
 Obama Administration Abandons Stricter Air-Quality Rules. : 0.0
- : 0.0GOP vs Obama: Disrespect or Just Politics?. : 0.0
-, Obama Vows Federal Help, Not Washington Politics
+GOP vs Obama: Disrespect or Just Politics?. : 0.0
+Obama Vows Federal Help, Not Washington Politics
 Can Obama Escape the Alberta Tar Pit?. : 0.0
-Obama
 What Should Obama Say?. : 0.0
 Old Tax Relief Seen as Anchor in Obama Plan. : 0.1
 Polls Show Declining Support for Obama on Economy. : 0.0
@@ -392,7 +391,7 @@ Small-Business Owners Respond to Obama Plan. : 0.0
 Democrats Fret Aloud Over Obama's Chances. : 0.0
 Bush and Obama, Shoulder to Shoulder. : 0.0
 Japan Investigates Online Posting of Obama Flight Plans. : 0.0
-, Obama Says, 'We've Taken the Fight to Al Qaeda'. : 0.0
+Obama Says, 'We've Taken the Fight to Al Qaeda'. : 0.0
 The Week Ahead in Congress: Obama Brings Jobs Bill to Hill. : 0.0
 Obama Schedules First Australia Visit, for the Third Time. : 0.20833333333333334
 Obama Offers Jobs Bill, and the GOP Balks. : 0.1
@@ -500,11 +499,11 @@ Senate Democrats Weigh Obama as Running Mate. : 0.0
 Obama Goes Local in Round of Interviews. : -0.15000000000000002
 Is Obama Toast? : 0.0
 Obama Taunts GOP  for Ignoring Jobs Bill. : 0.0
- : 0.0Choose Obama's Re-Election Adventure. : 0.0
+Choose Obama's Re-Election Adventure. : 0.0
 Obama Does Interviews, and Romney Follows. : 0.0
 Obama Urges European Solution to Debt Crisis. : 0.0
 Early Economic Projections Could Haunt Obama in 2012. : 0.15000000000000002
- : 0.0Nov 4, 2008 | : 0.0Obama Is Elected President. : 0.0
+Obama Is Elected President. : 0.0
 Opposites, Obama and Sarkozy Attract, if Uneasily.
 GOP Field Attacks Obama Foreign Policy With Tough Talk on Iran.
 Obama Presses Job Aid for Veterans. : -0.2569444444444444
@@ -538,7 +537,7 @@ Sharpening Tone, Perry Ad Takes On Obama. : 0.0
 Obama Addresses Troops at Final Stop in Australia. : 0.0
 Gingrich May Have Unlikely Ally in Obama on Lobbying. : -0.5
 Clinton Set to Visit Myanmar as Obama Cites Progress. : 0.0
- : 0.0Video of Remarks by Aung San Suu Kyi and Obama on Myanmar. : 0.0
+Video of Remarks by Aung San Suu Kyi and Obama on Myanmar. : 0.0
 Perry's Latest Attacks Distort Obama's Words and Past. : 0.125
 Obama's Trip Emphasizes Role of Pacific Rim. : 0.0
 Obama and Asian Leaders Confront China's Premier. : 0.0
@@ -588,7 +587,7 @@ Obama Tries on the Cowboy Hat. : -0.1
 In CBS Interview, Obama Makes Case for Second Term. : 0.0
 Obama's Take on Wall Street Prosecutions. : 0.0
 Obama and Iraqi Premier Signify Shift to a Postwar Partnership. : 0.0
- : 0.0Unpivoting Obama. : 0.0
+Unpivoting Obama. : 0.0
 Obama Team Likes Prospect of Long Republican Fight. : -0.05
 Obama Praises Troops as He Ends the War He Opposed. : 0.0
 Obama Drops Veto Threat Over Military Authorization Bill After Revisions. : -0.1
@@ -613,4 +612,3 @@ Obama Waits Before Asking for Increase in Debt Limit. : 0.0
 After Struggle on Detainees, Obama Signs Defense Bill. : 0.0
 Obama to Turn Up Attacks on Congress in Campaign. : 0.0
 Romney Focuses on Obama Before Leaving New Hampshire. : 0.13636363636363635
- : 0.0

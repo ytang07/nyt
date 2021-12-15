@@ -250,10 +250,9 @@ The Morning Skate: Bucks and Pucks, Rangers' D and Obama Outdoors?. : 0.0
 Appointments Begin a New Phase for Obama. : 0.13636363636363635
 By the Way, Obama's Not Black. : 0.08333333333333333
 Obama's Most Interesting Pick. : 0.5
-Obama's 'Dream Team'.
 Will Obama Ban Cluster Bombs?. : 0.0
-, Obama Faces a Delicate Task. : -0.3
- : 0.0Says He and Obama on the Same Page on Iraq. : 0.0
+Obama Faces a Delicate Task. : -0.3
+Says He and Obama on the Same Page on Iraq. : 0.0
 Obama to Announce Richardson's Appointment. : 0.0
 Obama Promises Quick Relief for Governors. : 0.3333333333333333
 Obama Speaks to the Governors. : 0.0
@@ -273,7 +272,7 @@ Dressing Michelle Obama. : 0.0
 Mall Open to Spectators for Obama Inaugural. : 0.0
 Obama Hauls in Record $750 Million for Campaign. : 0.0
 Issues Pressing, Obama Fills Top Posts at a Sprint. : 0.5
- : 0.0Apply for 3,300 Obama Jobs. : 0.0
+Apply for 3,300 Obama Jobs. : 0.0
 Hempstead School Renamed for Obama. : 0.0
 Obama Noncommittal on Caroline Kennedy, and Smoking. : 0.0
 Obama Sharpens Tone on Auto Industry. : 0.0
@@ -319,7 +318,7 @@ EDITION:<br />Top Obama Jobs Sans Top Billing. : 0.5
 Eight Energy Suggestions for Obama, From SunEdison's Founder. : 0.0
 Obama Discloses Inauguration Donors. : 0.0
 As the Economy Falters, Obama's Goodwill Grows. : 0.0
- : 0.0Uncertainty on Obama Education Plans. : 0.0
+Uncertainty on Obama Education Plans. : 0.0
 Obama's Friends Form Strategy to Stay Close. : 0.0
 Obama Rides the Rails to Power. : 0.0
 Early Word: Obama to Introduce Energy Team. : 0.1
@@ -347,10 +346,10 @@ Obama Names Insider to Commodities Post. : 0.0
 Obama Team Is Seeking Stimulus Bill by New Year. : 0.13636363636363635
 Obama Chooses Labor Secretary and Trade Representative. : 0.0
 Bush Aids Detroit, but Hard Choices Wait for Obama. : -0.2916666666666667
- : 0.0Alaska Checking E-Mailed Slurs About Obama. : 0.0
+Alaska Checking E-Mailed Slurs About Obama. : 0.0
 Obama's Stamp of Approval, Prepresidential. : 0.0
 Obama Defends Warren Choice. : 0.0
- : 0.0Questions for Obama's Science Team. : 0.0
+Questions for Obama's Science Team. : 0.0
 Obama Announces Final Cabinet Picks. : 0.0
 Obama Pledges Allegiance to Science. : 0.0
 A Trap in Obama's Spending Plan. : 0.0
@@ -389,4 +388,3 @@ Democrats Seek to Block Appointee to Obama's Seat
 Defiant Governor Picks Obama Successor. : 0.0
 Blagojevich Names Obama Senate Replacement. : 0.0
 11 Questions for Obama's Science Team. : 0.0
- : 0.0

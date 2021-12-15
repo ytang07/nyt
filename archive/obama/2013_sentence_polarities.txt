@@ -19,7 +19,7 @@ Obama's Chief of Staff Pick Is Said to Be Down to 2.
 Are Far Apart as Karzai and Obama Meet. : -0.02777777777777779
 Tough Path Seen by Obama on Ban of Assault Weapons. : -0.3888888888888889
 Obama Accelerates Transition of Security to Afghans. : 0.0
- : 0.0Highlights From Obama's News Conference With Karzai. : 0.0
+Highlights From Obama's News Conference With Karzai. : 0.0
 Obama Will Seek Citizenship Path in One Fast Push. : 0.2
 Obama and GOP Issue Challenges on the Debt Limit. : 0.0
 Obama Defends His Record on Diversity in Appointments. : 0.0
@@ -36,7 +36,7 @@ Netanyahu Issues Veiled Barb in Response to Reported Criticism From Obama. : 0.0
 Prominent Republicans Criticize Obama's Executive Actions. : 0.5
 Obama Tells Senate That It's Time to Confirm ATF Director. : 0.0
 Movies in the Age of Obama. : 0.0
- : 0.0Tell Us Your Candidates for Obama Cinema. : 0.0
+Tell Us Your Candidates for Obama Cinema. : 0.0
 Obama Plans to Name Close Aide on National Security as Chief of Staff. : 0.0
 Obama to 'Put Everything I've Got' Into Gun Control. : 0.0
 Obama's 2012 Operation Turns Over a New Leaf. : 0.13636363636363635
@@ -59,11 +59,11 @@ Obama's Inaugural Wardrobe by Many Designers. : 0.5
 Obama Offers Liberal Vision: 'We Must Act'. : 0.1
 Among Blacks, Pride Is Mixed With Expectations for Obama. : 0.0
 What Does Public Support in Obama's Second Inaugural Speech?.
-, Conservative Group Pastes Liberal Stamp on Obama. : 0.0
+Conservative Group Pastes Liberal Stamp on Obama. : 0.0
 A Veteran's Plea to President Obama. : 0.0
 Obama Speech Leaves GOP Stark Choices. : -0.2
 Contemplating Obama's Place in History, Statistically. : 0.0
- : 0.0Hats Off to President Obama. : 0.0
+Hats Off to President Obama. : 0.0
 NRA Leader Denounces Obama's Call for Gun Control. : 0.0
 In New Term, First Year Is Crucial for Obama Agenda. : 0.1717171717171717
 Netanyahu-Obama Ties May Thaw After Israel Election. : 0.0
@@ -78,7 +78,7 @@ At Gay Conference, Applause for Obama Is Spirited but Wary. : 0.2777777777777778
 Obama Heaps Praise on Hillary Clinton in Joint Appearance. : 0.0
 Gun Control Advocates Need to Listen to Gun Owners, Obama Says. : 0.0
 Obama Focuses on Status Quo, Not Left, in Battle With GOP. : 0.0
- : 0.0Obama on Football, and Contemplating a Death on the Field. : 0.0
+Obama on Football, and Contemplating a Death on the Field. : 0.0
 Ryan Says Obama Ignores Fiscal Woes to Fight Republicans. : 0.0
 Obama Seeking 'Political Conquest' of GOP, Ryan Says. : 0.0
 Obama Speech Expected to Embrace Immigration Plan. : -0.1
@@ -116,14 +116,10 @@ Live Coverage of Obama's State of the Union Address. : 0.10227272727272727
 Polls Show Dissatisfaction With Country's Direction, but Support for Obama's Agenda. : 0.0
 On the Issues: A Guide to Obama's Proposals. : 0.0
 Obama Resubmits Appointees for Labor Board. : 0.0
-On Immigration,
-
-Obama Draws
-
-Bipartisan Praise. : 0.0
+On Immigration, Obama Draws Bipartisan Praise. : 0.0
 Manhunt and Obama's Address Bolster CNN's Ratings. : 0.0
 Obama Bid for Europe Trade Pact Stirs Hope on Both Sides. : 0.0
- : 0.0Obama's Path from Rhetoric to Reality on Energy and Climate. : 0.0
+Obama's Path from Rhetoric to Reality on Energy and Climate. : 0.0
 Extending a Theme, Obama Promotes Resurgence in US Manufacturing. : 0.0
 In Speech, Obama Tempers Expectations of Syria's Future. : 0.0
 In Policy-Heavy Speech, Obama Appeals to Emotion on Guns. : 0.0
@@ -141,11 +137,7 @@ Obama Fleshes Out Plans for Infrastructure Projects. : 0.0
 North Korean Video Shows Obama in Flames. : 0.0
 Woods and Obama, a Weekend Pairing That Can't Help but Draw Attention. : 0.0
 Obama's Forecast on Cuts Is Dire, but Timing Is Disputed. : 0.0
-GOP Is Resisting
-
-Obama Pressure on
-
-Tax Increase. : 0.0
+GOP Is Resisting Obama Pressure on Tax Increase. : 0.0
 New Poll Shows Obama in Strong Position on Spending Cuts. : 0.2848484848484848
 For Obama and Team, Calm, Not Crisis, in Latest Fiscal Battle.
 Seeing Citizenship Path Near, Activists Push Obama to Slow Deportations. : 0.325
@@ -157,7 +149,6 @@ With Virginia Shipyard as Backdrop, Obama Warns Again on Cuts. : 0.2
 Union Leaders Call on Obama to Fill Labor Board. : 0.0
 Dismissing Her Critics, Mrs Obama Forges Ahead. : 0.0
 Is Obama's QuickPay Initiative Beginning to Work?. : 0.0
-Michelle Obama
 Obama Pardons 17 Felons, First in His Second Term. : 0.1875
 Obama Picks Foundation President for Budget Chief. : 0.0
 Former Adviser Criticizes Obama on Afghan War. : 0.0
@@ -189,7 +180,7 @@ Cyberattacks a Topic in Obama Call With New Chinese President. : 0.0681818181818
 Obama Seeks to Use Oil and Gas Money to Develop Alternative Fuel Cars. : 0.0
 Israelis Form Government Days Before Obama Visit. : 0.0
 In Time for St Patrick's Day, a Visit From Obama's Irish Cousin. : 0.0
- : 0.0Worldly at 35, and Shaping Obama's Voice. : 0.0
+Worldly at 35, and Shaping Obama's Voice. : 0.0
 Obama Nominates Justice Aide for Labor Post. : 0.0
 Obama's Visit to Israel Renews Effort to Free Spy. : 0.4
 GOP Leaders Unswayed by Obama's 'Charm Offensive'. : 0.0
@@ -205,8 +196,7 @@ Q and A on Obama's Trip to Israel. : 0.0
 Obama Urges Young Israelis to Lead the Push for Peace. : 0.1
 Senate Panel Approves Obama's Choice for Interior Dept.
 Obama to Name New National Monuments.
-Israeli Beauty Queen Next in Line to Press Obama to Release Spy.
- : 0.10227272727272727Highlights From Obama's Speech in Israel. : 0.0
+Israeli Beauty Queen Next in Line to Press Obama to Release Spy. : 0.10227272727272727Highlights From Obama's Speech in Israel. : 0.0
 Obama Lays Out Case for Israel to Revive Peace Talks. : 0.0
 With Obama as Broker, Israelis and Turkey End Dispute. : 0.0
 Shalom, Mr President: Obama Tries to Charm Israelis With Hebrew. : -0.1
@@ -237,7 +227,7 @@ Obama Nominates 3 to Serve on Labor Relations Board. : 0.0
 Three Obama Nominees Encounter No Opposition at Senate Confirmation Hearings. : 0.0
 Obama Budget Opens Rift for Democrats on Social Benefits. : 0.03333333333333333
 Budget Embodies Obama's Vision for Remaking Economy. : 0.0
- : 0.0Highlights From Obama's Budget Proposal. : 0.0
+Highlights From Obama's Budget Proposal. : 0.0
 Obama Likes Some Sin Taxes More Than Others. : 0.5
 Easy Hearing for Obama's Choice for Court. : 0.43333333333333335
 Obama Moves to Block Horse Slaughter. : 0.0
@@ -274,17 +264,13 @@ Spending Cuts Threaten to Delay Research, Obama Tells Scientists. : 0.0
 Obama Ally Likely Pick for FCC. : 0.0
 Health Care Law Is 'Working Fine,' Obama Says in Addressing Criticism. : 0.4166666666666667
 Obama Nominates Congressman to Lead Mortgage Agency. : 0.0
-, Obama Offers Measured Praise for FBI. : 0.1
+Obama Offers Measured Praise for FBI. : 0.1
 Immigration Is on Agenda for Obama in Mexico. : 0.0
 Obama Picks Nominees for Commerce Dept and Trade Representative. : 0.0
 How the Public Sees Obama. : 0.0
 Obama Arrives in Mexican Capital to Meet With New Leader. : 0.10227272727272727
 Obama Backs Birth Control Rule Change. : 0.0
-Obama's Defender of
-
-Borders Is Again a
-
-Voice for Migrants. : 0.0
+Obama's Defender of Borders Is Again a Voice for Migrants. : 0.0
 Obama Tells Mexico Audience of New Era in Relations. : 0.13636363636363635
 Obama Names Veteran Troubleshooter to Afghanistan-Pakistan Post. : 0.0
 McCain Says Airstrikes in Syria Put Pressure on Obama to Act. : 0.0
@@ -297,7 +283,7 @@ Obama Backs South Korea President's Policy on North. : 0.0
 Senate Panel Postpones Vote on Obama's Labor Nominee. : 0.0
 Senate Republicans Block Committee Vote on Obama's Nominee to Lead EPA. : 0.0
 What's Michelle Obama Like in Person?.
-, Obama Points Spotlight on Manufacturing. : 0.0
+Obama Points Spotlight on Manufacturing. : 0.0
 Obama to Bookend Group of Eight Summit With Belfast and Berlin Visits. : 0.0
 Obama Honors 'Top Cops' in White House Ceremony. : 0.375
 Obama Dismisses Benghazi Furor but Assails IRS. : 0.0
@@ -329,7 +315,7 @@ Obama, in a Shift, to Limit Targets of Drone Strikes. : 0.0
 Obama Lifts Moratorium on Transfer of Detainees. : 0.0
 Pivoting From a War Footing, Obama Acts to Curtail Drones. : 0.0
 Obama, in Nod to Press, Orders Review of Inquiries. : 0.0
- : 0.0Analysis of Key Points From Obama's Speech on Drones. : 0.0
+Analysis of Key Points From Obama's Speech on Drones. : 0.0
 SEC Changes Continue as Obama Names 2 Senate Aides for Posts. : -0.10000000000000002
 Obama Defies Critics With State Dept Choice. : 0.0
 Obama Calls for 'Moral Courage' at Naval Academy Graduation. : 0.0
@@ -357,11 +343,6 @@ In Personnel Appointments, Obama Takes Assertive Tack. : 0.0
 Obama Promises to Have High-Speed Internet in Most Schools in 5 Years. : 0.5
 Leaks Overshadow Obama's Meeting With President of China. : 0.0
 Was Change in Obama Editorial a 'Softening' of The Times's Position?. : 0.0
-Even as Wars Fade,
-
-Obama Maintains
-
-Bush's Data Mining.
 Obama Urged to Prod China on Rights at Meeting. : 0.0
 Obama Calls Surveillance Programs Legal and Limited. : 0.0642857142857143
 Obama and Xi Tackle Cybersecurity as Talks Begin in California. : 0.0
@@ -376,13 +357,7 @@ Obama Speaks at Rally for Massachusetts Democrat. : 0.0
 Obama Urges Massachusetts Democrats to Turn Out for Markey's Senate Bid. : 0.0
 Former Obama Advisers Start Communications Company. : 0.0
 Obama's Pen May Shape Scope of Marriage Ruling. : 0.0
-Heavy Pressure
-
-Led to Decision
-
-by Obama on
-
-Syrian Arms. : -0.2
+Heavy Pressure Led to Decision by Obama on Syrian Arms. : -0.2
 Is Democratic Criticism on NSA Hurting Obama's Approval Rating?. : 0.0
 Obama and Putin at Odds on Syria, but Want Talks. : 0.0
 Pro-Clinton PAC Receives the Support of a Key Obama Backer. : 0.0
@@ -426,7 +401,7 @@ After Obama's Visit, an Electric Moment for Tanzania Lingers. : 0.0
 Obama's Insurance Delay Won't Affect Many. : 0.5
 Obama to Present Arts and Humanities Medals on Wednesday. : 0.0
 Aide Joins Obama on Health Care. : 0.0
- : 0.0Questions for Obama's Chief Technology Officer. : 0.0
+Questions for Obama's Chief Technology Officer. : 0.0
 Obama Administration Rules Out Suspension of Aid to Egypt in Near Term. : 0.1
 Obama and Bush Promote Benefits of Immigration. : 0.0
 Difficult Spot for Obama on Immigration Push. : -0.5
@@ -435,7 +410,7 @@ Remark by Obama Complicates Military Sexual Assault Trials. : 0.2
 In Second Term, Obama Is Seen as Using 'Hidden Hand' Approach. : -0.125
 Obama May Cancel Moscow Trip as Tensions Build Over Leaker. : 0.0
 Speaking Out for Health Care Act, Obama Says Millions Will Get Rebates. : 0.0
- : 0.0Video and Transcript of Obama's Complete Remarks on Race. : 0.1
+Video and Transcript of Obama's Complete Remarks on Race. : 0.1
 Obama's Remarks on Race Prompt Emotional Outpouring on Twitter. : 0.0
 Obama Plans to Unveil His Agenda for Economy. : 0.0
 President Obama, Race and the Ku Klux Klan. : 0.0
@@ -471,7 +446,7 @@ Obama, Before a Military Audience, Vows to End Across-the-Board Cuts. : -0.05
 Obama Urges Greece to Grow Its Economy. : 0.0
 Obama Addresses Surveillance and National Security in News Conference. : 0.0
 Obama Assures Disabled Veterans They Will Get Aid. : -0.2
-, Obama Begins a Shorter Break. : 0.0
+Obama Begins a Shorter Break. : 0.0
 Hagel Tries to Blunt Effect of Obama Words on Sexual Assault Cases. : 0.35
 His Options Few, Obama Rebukes Egypt's Leaders. : -0.2
 Thrust Into Nonstop Turmoil, an Obama Adviser Counsels Pragmatism. : 0.0
@@ -549,7 +524,7 @@ Obama Says He Isn't Resigned to a Shutdown. : 0.0
 Obama Scolds House Republicans Over Possible Shutdown. : 0.0
 Obama's Message to the Middle. : 0.0
 Obama Confident, but Wary of Economic Fallout. : 0.13333333333333333
-, Obama and Netanyahu Display Unity. : 0.0
+Obama and Netanyahu Display Unity. : 0.0
 Obama Selects Romney Adviser for Social Security Commission. : 0.03333333333333333
 Obama Urges Republicans to Drop Health Law Fight. : 0.0
 Obama Signs Bill to Ensure Military Will Be Paid During Shutdown. : -0.1
@@ -562,7 +537,7 @@ Obama 'Hugely Impressed' by Pope Francis. : 1.0
 Obama Says He Won't Negotiate Until Government Reopens. : 0.0
 Pressing Republicans, Obama Links Shutdown and Economy. : 0.0
 Obama Warns Wall Street. : 0.0
- : 0.0Questions for President Obama. : 0.0
+Questions for President Obama. : 0.0
 Can Obama Ignore the Debt Ceiling?. : 0.0
 Cancellation of Trip by Obama Plays to Doubts of Asia Allies
 Obama Pulls Out of Asian Security and Economic Conferences. : 0.1
@@ -621,8 +596,8 @@ Analyzing Obama on Health Care in The Times. : 0.0
 Obama Health Care Fixes Give Small Businesses Time to Assess. : -0.25
 Obama Gives San Francisco's Batkid a Six-Second Shout-Out. : 0.0
 After Obama Meeting, Insurers Question Plan's Workability. : 0.0
- : 0.0Another Website, Another Problem for Obama
- : 0.0Obama's First-Term Finance Team: Where Are They Now?. : 0.125
+Another Website, Another Problem for Obama
+Obama's First-Term Finance Team: Where Are They Now?. : 0.125
 Obama Pick for Court Is 3rd in a Row Blocked by Republicans. : 0.0
 Racism in the Age of Obama. : 0.0
 In Obama's Pick to Lead a Financial Regulator, an Enigma. : 0.0
@@ -633,7 +608,7 @@ Obama's Visiting Security Adviser Tells Karzai to Sign Agreement. : 0.0
 Obama Message at DreamWorks: Hooray for Hollywood. : 0.0
 Chinese Claim Forces Obama to Flesh Out His Asia Strategy. : 0.0
 The Hard Charger at Obama's Side Has His Hands Full. : -0.13125000000000003
- : 0.0Inside the Race to Rescue a Health Care Site, and Obama. : 0.0
+Inside the Race to Rescue a Health Care Site, and Obama. : 0.0
 Obama Urges Focus on Health Care Law's Benefits. : 0.0
 Poll Finds Young People Souring on Health Law and Obama. : 0.1
 In Obama's Book List, Glimpses of His Journey. : 0.0
@@ -673,7 +648,6 @@ Obama Commutes Sentences for 8 in Crack Cocaine Cases. : 0.0
 Senate Passes Pentagon Bill After Compromise on Obama Nominees. : 0.0
 Obama Weighing Security and Privacy in Deciding on Spy Program Limits. : 0.0
 What Stronger Health Spending Growth Means for Obama. : 0.0
- : 0.0Highlights From Obama's News Conference. : 0.0
+Highlights From Obama's News Conference. : 0.0
 US Captive of Al Qaeda Makes a Plea to Obama. : 0.2
 Obama's TV Picks: Anything Edgy, With Hints of Reality. : -0.3
- : 0.0

@@ -22,7 +22,7 @@ Obama Surprises Joe Biden With Presidential Medal of Freedom. : 0.0
 President Obama Designates First National Monument Dedicated to Reconstruction. : 0.25
 Obama's Last Battle: His Legacy. : 0.0
 Late-Term Role for Obama: Groomsman in Chief. : 0.0
- : 0.0Inside Obama's Final Days. : 0.0
+Inside Obama's Final Days. : 0.0
 Obama Ends Exemption for Cubans Who Arrive Without Visas. : 0.0
 Obama's Secret to Surviving the White House Years: Books. : -0.30000000000000004
 What Michelle Obama Wore and Why It Mattered. : 0.0
@@ -34,7 +34,7 @@ Obama Pardons James Cartwright, General Who Lied to FBI in Leak Case. : 0.050000
 Obama's Stark Options on ISIS: Arm Syrian Kurds or Let Trump Decide. : -0.2
 Obama Commutes Sentence of FALN Member Oscar Lopez Rivera. : 0.0
 Chelsea Manning to Be Released Early as Obama Commutes Sentence. : 0.1
- : 0.0To Obama With Love, and Hate, and Desperation. : -0.15000000000000002
+To Obama With Love, and Hate, and Desperation. : -0.15000000000000002
 Obama Updates CIA Rules for Handling Americans' Information. : 0.0
 Obama Understood the Power of Art And He Wanted You to Get It, Too. : 0.0
 In Farewell, Obama Sets Red Lines That Would Pull Him Back Into Fray. : 0.0
@@ -48,7 +48,7 @@ Trump Nominees Make Clear Plans to Sweep Away Obama Policies. : 0.10000000000000
 Obama Transfers 4 From Guantanamo, Leaving 41 There as Term Ends. : 0.0
 Obama Toasts Away His Presidency With Tears and Thanks. : 0.2
 The Crooner in Chief: Barack Obama's Musical Legacy. : 0.0
-, Obama's Glittering Round of Farewells. : -0.2
+Obama's Glittering Round of Farewells. : -0.2
 Trump Abandons Trans-Pacific Partnership, Obama's Signature Trade Deal. : 0.0
 Why Obama Struggled at Court, and Trump May Strain to Do Better. : 0.5
 Trump Revives Keystone Pipeline Rejected by Obama. : 0.0
@@ -60,4 +60,3 @@ How Republicans Will Try to Roll Back Obama Regulations. : 0.0
 Obama Speaks Up, Praising Protests and Opposing Religious Test. : 0.0
 Obama's Protections for LGBT Workers Will Remain Under Trump. : 0.0
 Obama, Out of Office 10 Days, Speaks Out Against Immigration Ban. : 0.0
- : 0.0

@@ -38,7 +38,7 @@ Romney-Obama: No Popularity Contest. : 0.0
 Menendez Drops His Opposition to Obama's Pick for a Federal Appeals Court. : 0.0
 Iran Face-Off Testing Obama the Candidate. : 0.0
 The Pros and Cons of Obama's Reorganization Plan. : 0.0
-, Romney Keeps Focus on Obama. : 0.0
+Romney Keeps Focus on Obama. : 0.0
 Obama to Accept Nomination in Stadium After Shortened Convention. : 0.0
 Obama Campaign Looks Into Ad Rates. : 0.0
 Obama Taps Lew Deputy to Head Budget Office. : 0.0
@@ -49,8 +49,8 @@ Obama's Pipeline Move: Something for Everyone. : 0.0
 Obama Fights Back Against Koch Brothers in New Ad. : 0.10227272727272727
 Poll Shows Obama's Vulnerability With Swing Voters. : 0.0
 Obama Strategist Plans Post-Vote Academic Role. : 0.0
-, Obama Announces New Tourism Policies
- : 0.13636363636363635Obama Reaffirms Insurers Must Cover Contraception. : 0.0
+Obama Announces New Tourism Policies : 0.13636363636363635
+Obama Reaffirms Insurers Must Cover Contraception. : 0.0
 For Obama, a Day at Disney World and a Night of Fund-Raisers. : 0.0
 Obama Vow on Exports Is on Track, With Help. : 0.0
 House Republicans Hone Plan to Take On Obama. : 0.0
@@ -80,7 +80,7 @@ A Frosty Meeting for Obama and Arizona Governor. : 0.0
 In Airport Run-In, Democrats See Help for Obama Among Hispanics. : 0.0
 Caucus Click: Obama Lands in Detroit. : 0.0
 Obama and Fairness. : 0.0
- : 0.0House Democrats Embrace Obama's Newfound Combativeness. : 0.0
+House Democrats Embrace Obama's Newfound Combativeness. : 0.0
 North Carolina Governor's Decision May Aid Obama Bid. : 0.0
 House Democrats Welcome Obama's Confrontational Tone Toward GOP. : 0.8
 Obama Plan Links College Aid With Affordability. : 0.0
@@ -162,7 +162,7 @@ President Obama's 1 Percent Solution. : 0.0
 Lawmakers Mixed on Obama Corporate Tax Overhaul. : 0.0
 Obama Super PAC Targets Romney's Bailout Stance in New Ad. : 0.23484848484848486
 Obama Goes After Republicans in New Michigan Ad. : 0.13636363636363635
-, Obama Talks About Energy. : 0.0
+Obama Talks About Energy. : 0.0
 Obama Sends Apology as Afghan Koran Protests Rage. : 0.0
 Obama Heads to Miami. : 0.0
 In January, Obama Campaign Spent Almost As Much As Romney's. : 0.05
@@ -212,7 +212,7 @@ At Lunch, Bloomberg and Obama Discuss Future. : 0.0
 Obama's Rating Falls as Poll Reflects Volatility. : 0.0
 Britain to Join Obama in Discouraging a Strike on Iran. : 0.0
 Do Most Mississippi Republicans Think Obama Is a Muslim?. : 0.5
- : 0.0Wait Wasn't Obama Winning?. : 0.5
+Wait Wasn't Obama Winning?. : 0.5
 Obama Campaign Fears Uphill Climb Raising 'Super PAC' Money. : 0.3333333333333333
 In Missouri, Romney Attacks Obama for Rising Gas Prices. : 0.0
 AFL-CIO Endorses Obama. : 0.0
@@ -224,7 +224,7 @@ Obama Makes His NCAA Predictions. : 0.0
 At White House, Obama and Cameron Genial and Joking. : 0.0
 Cameron and Obama Show Unity on Afghanistan. : 0.0
 The Breakfast Meeting: Obama's YouTube Strategy, and 'Luck' Ends. : 0.0
- : 0.0At Obama Rallie. : 0.0
+At Obama Rallie. : 0.0
 With Video, Obama Looks to Expand Campaign's Reach Through Social Media. : 0.03333333333333333
 Obama-mentum. : 0.0
 A Thank You for Obama's Donors, Dinner With Clooney and Cameron. : 0.0
@@ -293,8 +293,7 @@ Obama and Romney Enter Debate Over Augusta's All-Male Policy. : 0.0
 Obama Signs JOBS Act. : 0.0
 On Jobs, Obama and Romney Argue Over Fullness of the Glass. : 0.0
 Obama Embraces National Security as Campaign Issue. : 0.0
-Ryan, Obama, and Deficits.
- : 0.0'Super PAC,' Eyeing General Election, Aims Blitz at Obama. : 0.19166666666666665
+Super PAC,' Eyeing General Election, Aims Blitz at Obama. : 0.19166666666666665
 Grassley Assailed for Calling Obama 'Stupid' on Twitter. : -0.7999999999999999
 Obama Candidate Sketches Vision for World Bank. : 0.0
 Obama Goes on Offensive Over Taxes on Wealthy. : 0.5
@@ -352,7 +351,7 @@ In New Video, Obama Campaign Reminds Voters of 2008 Job Losses. : 0.136363636363
 Obama Campaign Grapples With New Voter ID Laws. : 0.13636363636363635
 Obama Ad Attacks Romney on Swiss Bank Account. : 0.0
 Obama and Romney Spar Over Death of Bin Laden. : 0.0
- : 0.0Video of Obama's Address From Afghanistan. : 0.0
+Video of Obama's Address From Afghanistan. : 0.0
 Obama Spot Offers a Rebuttal and a Jab at Romney. : 0.1
 Obama Approach to Diplomacy Faces Test in China. : 0.0
 Who Was at Obama's $35,800 Dinner?. : 0.0
@@ -376,7 +375,7 @@ On Sundays, Tight Obama Circle Sizes Up Election. : -0.17857142857142858
 Has Obama's Magic Jobs Number Changed?. : 0.5
 Obama Formally Kicks Off Campaign in Ohio and Virginia. : 0.0
 Cuomo Says Obama Visit Could Help State's Economy. : 0.0
- : 0.0For Global Leaders, Including Obama, a Game of Survivor. : -0.2
+For Global Leaders, Including Obama, a Game of Survivor. : -0.2
 Obama? : 0.0
 Kidnapped American Makes Appeal to Obama in Qaeda Video. : 0.0
 New Obama Ad Focuses on Finishing the Job. : 0.13636363636363635
@@ -468,7 +467,7 @@ After Digs at His Predecessor, Obama Will Host Bushes at White House. : 0.0
 Romney Faults Obama After Syria Crackdown. : 0.0
 Obama Finds Campaigning Rules Clock. : 0.0
 Obama's Counterterrorism Record
- : 0.0Michelle Obama Reveals How Her White House Garden Grows. : 0.0
+Michelle Obama Reveals How Her White House Garden Grows. : 0.0
 Obama Begins Commemoration of Vietnam Era. : 0.0
 Secret 'Kill List' Proves a Test of Obama's Principles and Will. : -0.22500000000000003
 No Comment Necessary: Trump on Obama's Birthplace. : 0.0
@@ -529,8 +528,8 @@ Obama Nominates Two for Federal Appeals Court
 Obama Nominates Two to Appeals Court. : 0.0
 Obama Stays Ahead in Pennsylvania Poll. : 0.0
 Romney Tries to Turn the Tables on Obama. : -0.1
- : 0.0On Fund-Raising Push, Obama Says Romney Lacks Solutions.
- : 0.0Calls Obama Policies the Most Anti-Business in Recent History. : 0.25
+On Fund-Raising Push, Obama Says Romney Lacks Solutions.
+Calls Obama Policies the Most Anti-Business in Recent History. : 0.25
 Obama Says Election Offers a Clear Choice on the Economy's Long-Term Path. : 0.1
 Bishops Defend Fight Against Obama's Policy on Birth Control Coverage. : 0.0
 Readers See Obama Slightly Ahead, With Ohio Crucial for Romney
@@ -565,7 +564,7 @@ Rubio Calls Obama's Dream Act Move a 'Short-Term Fix'. : 0.0
 Obama Challenges Romney on His Home Turf. : 0.0
 Scalia Cites Obama Immigration Policy in Dissent on Arizona Law. : 0.0
 Obama and Romney React to Court's Immigration Decision. : 0.0
-, Obama and Romney React to the Justices' Decision. : 0.0
+Obama and Romney React to the Justices' Decision. : 0.0
 Former Obama Aide Joins Re-election Campaign in Press Post. : 0.0
 Obama Ad Attacks Romney as 'Outsourcer in Chief'. : 0.0
 Obama Campaign Banks on High-Tech Ground Game to Reach Voters. : -0.4
@@ -598,7 +597,7 @@ Obama Urges Voters to Look Ahead on Economy. : 0.0
 Obama Poised for New Fight With GOP Over Tax Cuts. : 0.13636363636363635
 Obama's Camp Makes Aggressive Push for Romney to Disclose Offshore Finances. : 0.0
 Obama Pushes Tax Cut Extension That Excludes Wealthiest. : 0.0
- : 0.0Europe and Obama. : 0.0
+Europe and Obama. : 0.0
 Obama Trails Romney Again in Battle for Campaign Cash. : 0.0
 Romney Outraises Obama by Half in June. : -0.16666666666666666
 Republican Web Site Points to Obama as 'Real Outsourcer-in-Chief'. : 0.2
@@ -618,7 +617,7 @@ Accusing Obama of Untruths Over Outsourcing. : 0.0
 Stumping in Virginia, Obama Steers Clear of Bain. : 0.10000000000000002
 Book Review Podcast: The Obama Doctrine. : 0.0
 No Apologies: Obama Campaign Continues Attacks on Romney. : 0.0
-, Obama Reflects on Lessons Learned. : 0.0
+Obama Reflects on Lessons Learned. : 0.0
 Obama Ad Continues Effort to Tie Romney to Outsourcing. : 0.0
 At Times, Obama and His Cyberself Differ on Tactics. : 0.0
 Romney Seeks Obama Apology for Bain Attacks. : 0.0
@@ -655,7 +654,6 @@ Obama Administration Is Showering Israel With High-Level Attention. : 0.0
 Obama Delivers Defense of His Policy Efforts. : 0.0
 Senate Sends Obama a Bill Demanding Details on Automatic Spending Cuts. : 0.0
 Political Worries in US and China Color Obama Aide's Beijing Visit. : 0.0
-Obama
 Romney and Obama Strain to Show Gap on Foreign Policy. : -0.125
 Obama's Team Taking Gamble Going Negative. : -0.3
 Obama Has Ties to Slavery Not by His Father but His Mother, Research Suggests. : 0.0
@@ -704,7 +702,7 @@ For Ryan and Obama, More Than the Usual Rivalry. : -0.0625
 Obama Signs Law Exempting Many Appointees From Senate Approval. : 0.5
 Through Ryan, Obama Seeks to Link Romney to Congress. : 0.0
 Obama Rejoins Campaign Trail in Iowa and Finds a Brand-New Rival There. : 0.0
- : 0.0Blaming Obama for George W Bush's Policies. : 0.0
+Blaming Obama for George W Bush's Policies. : 0.0
 Shining a Light on Obama. : 0.4
 Obama-Ryan Battle Intensifies Over Medicare Savings. : 0.0
 What Does Obama Really Believe In?. : 0.2
@@ -724,7 +722,7 @@ Obama Leads Big -- Among Those Least Likely to Vote. : -0.09999999999999999
 Obama Opens Up to 'Moneyball' Writer for Vanity Fair. : 0.7
 Obama Attacks Republicans Over Teacher Layoffs. : 0.0
 To Obama, Republican Budget Plans Are 'Snake Oil'. : 0.0
- : 0.0Behind the Cover Story: Paul Tough on How Obama's Stance on Poverty Has Changed. : -0.39444444444444454
+Behind the Cover Story: Paul Tough on How Obama's Stance on Poverty Has Changed. : -0.39444444444444454
 Look of the Moment | Michelle Obama. : 0.0
 Cautious Moves on Foreclosures Haunting Obama. : 0.0
 In Briefing, Obama Touches on Medicare and Romney's Taxes. : 0.0
@@ -767,7 +765,7 @@ The Caucus Click: Michelle Obama on the Convention Floor. : 0.0
 On Labor Day, Obama Talks Up Auto Bailout in Ohio. : 0.0
 Obama Ad Reprises Theme That Romney Would Hurt Middle Class. : 0.0
 Ad Takes Aim at Obama Health Overhaul. : 0.0
-, Obama Stops to Shore Up Support in Virginia. : 0.0
+Obama Stops to Shore Up Support in Virginia. : 0.0
 Obama Makes Detour to Visit Hurricane Site. : 0.0
 For Michelle Obama, Convention Speech Is a New Point in Transformation. : 0.13636363636363635
 In North Carolina, Romney and Obama Are in a Tight Race. : -0.17857142857142858
@@ -775,7 +773,7 @@ In North Carolina, Obama's 2008 Victory Was Ahead of Schedule. : 0.0
 Obama and Romney Weigh in on Science Questions. : 0.0
 Did Barack Obama Save Ohio?. : 0.0
 Obama Convention Speech Moved From Stadium. : 0.0
- : 0.0Sept 4: : 0.0The Simple Case for Why Obama Is the Favorite. : 0.375
+Sept 4: : 0.0The Simple Case for Why Obama Is the Favorite. : 0.375
 Obama Faces Test From Voters Who Drifted Away. : 0.0
 Obama Counts on Clinton to Help Sway Independents. : 0.0
 Michelle Obama's Dress in High Definition. : 0.16
@@ -788,13 +786,13 @@ Pushed by Obama, Democrats Alter Platform Over Jerusalem. : 0.0
 What Obama Should Say. : 0.0
 Obama Girls' Role: Not to Speak, but to Be Spoken Of.
 Clinton Was Not Always an Obama Fan, Romney Ad Recalls. : 0.0
- : 0.0Romney Isn't Planning to Watch Obama's Speech. : 0.0
+Romney Isn't Planning to Watch Obama's Speech. : 0.0
 What to Watch For in Obama's Speech. : 0.0
 Obama Praises Clinton and Talks Stadium Move in Call With Supporters. : 0.0
 At Convention, Obama Surrogates Extol Foreign Policy Successes. : -0.125
 In Speech, Obama to Plead for Patience. : 0.0
 Putin Says Missile Deal Is More Likely With Obama. : 0.25
-, Delegates Give Obama Benefit of Their Doubts. : 0.0
+Delegates Give Obama Benefit of Their Doubts. : 0.0
 Obama Would Be Big Favorite With 'Fired Up' Base. : -0.45
 Obama Reaches Out, Vowing a Rain Check. : 0.0
 Obama Makes Case for 2nd Term: 'Harder' Path to 'Better Place'. : 0.17777777777777778
@@ -855,12 +853,12 @@ In Connecticut, Wall Street Community May Limit Obama Victory. : 0.0
 Sept 17: Electoral College May Not Help Obama. : 0.0
 Kansas Board Officially Puts End to Obama Ballot Challenge. : 0.0
 Brewing Obama's Ale, Step by Step. : 0.0
-, Obama Trumpets China Trade Case. : 0.0
+Obama Trumpets China Trade Case. : 0.0
 Filing Trade Suit, Obama Raps Romney on China. : 0.0
 Beyonce and Jay-Z Host Obama Fund-Raiser. : 0.0
 The Caucus Click: Obama and Letterman. : 0.0
 Obama, on Letterman Show, Responds to Romney Comments. : 0.0
- : 0.0Sept 18: : 0.0Obama's Bounce Erodes in Two Tracking Polls. : 0.0
+Sept 18: : 0.0Obama's Bounce Erodes in Two Tracking Polls. : 0.0
 In a Tight Race, Obama Draws on the Levers of His Power. : -0.17857142857142858
 Advocate of Democracy in Myanmar Meets Obama. : 0.0
 Obama's Lead Looks Stronger in Polls That Include Cellphones. : 0.0
@@ -887,7 +885,7 @@ Republican Team Attacks Obama on Foreign Policy. : -0.125
 While UN Beckons Clinton, Obama Takes In 'The View'.
 Obama Tells UN New Democracies Need Free Speech. : 0.2681818181818182
 Obama and Romney Talk Foreign Policy. : -0.125
- : 0.0Video of Obama's UN Address. : 0.0
+Video of Obama's UN Address. : 0.0
 In Romney-Obama 'Redistribution' Debate, a Gray Area. : 0.0
 In Ohio, Obama Takes On Romney Over China and Jobs. : 0.0
 Obama Without Romney. : 0.0
@@ -897,7 +895,7 @@ Brewing Obama's Ale: So Far, So Good. : 0.39999999999999997
 Polls Show Obama Is Widening His Lead in Ohio and Florida. : 0.0
 Buoyant Obama Courts Military Votes in Virginia. : -0.1
 Romney Charges That Obama Has Shrunk Military Commitment. : -0.1
- : 0.0Nod to Obama by Netanyahu in Warning to Iran on Bomb. : 0.0
+Nod to Obama by Netanyahu in Warning to Iran on Bomb. : 0.0
 Obama Unveils New Ad as Early Voting Begins. : 0.11818181818181818
 Senate Republicans Challenge Obama's Recess Appointments. : 0.0
 Obama Fills in Blanks of Romney's Plans, and GOP Sees Falsehoods. : 0.0
@@ -956,8 +954,8 @@ Springsteen Hits the Road for Obama. : 0.0
 President Obama to Appear as Guest on 'The Daily Show' on Oct 18. : 0.0
 Ryan Criticizes Obama Administration's China Policy.
 Reconsidering Obama the Pragmatist. : 0.0
-'Obama Phone'.
- : 0.0Giuliani Criticizes Obama on Handling of Benghazi Attack. : 0.0
+'Obama Phone'. : 0.0
+Giuliani Criticizes Obama on Handling of Benghazi Attack. : 0.0
 Obama Campaign Feels 'Good' About State of Race. : 0.7
 Town Hall Format Poses Risks for Obama and Romney. : 0.0
 Obama-Backed Battery Maker Files for Bankruptcy. : 0.0
@@ -984,15 +982,15 @@ Obama and Romney Share Stage Again Tonight, but This Time for Laughs. : 0.0
 Obama Addresses Libya Attack in 'Daily Show' Interview. : 0.0
 Obama Hits Back With New Abortion Ad. : 0.10227272727272727
 Newspapers in Salt Lake City, Tampa and Denver Endorse Obama. : 0.0
- : 0.0Oct 18: : 0.0Obama Gains in Forecast on Resiliency in Swing State Polls. : 0.0
+Obama Gains in Forecast on Resiliency in Swing State Polls. : 0.0
 Obama Says His Opponent Has a Case of 'Romnesia'. : 0.0
 Campaigning in Virginia, Obama Presses Fight for Women's Vote. : 0.0
 Wall St May Not Cheer, but Obama's Been Good for Stocks. : 0.7
- : 0.0Oct 19: : 0.0After Romney Gains, Should Obama Concede Florida?. : 0.0
+After Romney Gains, Should Obama Concede Florida?. : 0.0
 Likely Changes to Cabinet if There's a Second Obama Term. : 0.0
 Springsteen to Give Free Concert in Virginia to Support Obama. : 0.4
 Obama Could Be Buoyed by Latest WTO Victory Over China. : 0.5
- : 0.0Oct 21: : 0.0Uncertainty Clouds Polling, but Obama Remains Electoral College Favorite. : 0.5
+Uncertainty Clouds Polling, but Obama Remains Electoral College Favorite. : 0.5
 Sparring Over Foreign Policy, Obama Goes on the Offense. : -0.125
 In Jerusalem, Carter Derides Netanyahu and Obama. : 0.0
 In Post-Debate Rally, Obama Says Romney Has 'Stage 3 Romnesia'.
@@ -1062,8 +1060,8 @@ Simple Case for Saying That Obama Is Favored. : 0.4
 With Time as Tight as Race, Romney and Obama Zero In.
 Blame Obama. : -0.17857142857142858
 Obama, on a Weekend March, Tries to Recapture His Mantle. : -0.1
-Unions Recruit New Allies for Obama in Battleground States
- : 0.13636363636363635The Caucus Click: Obama in Milwaukee. : 0.0
+Unions Recruit New Allies for Obama in Battleground States : 0.13636363636363635
+The Caucus Click: Obama in Milwaukee. : 0.0
 Romney Overlooks Christie's Praise for Obama. : 0.0
 Obama Up by 5 Points in Iowa, Des Moines Register Poll Finds. : 0.0
 Prediction Time: Obama Survives. : 0.0
@@ -1082,10 +1080,10 @@ Abroad, Obama's Victory Brings Demands for Attention. : 0.0
 Orca, Meet Obama. : 0.0
 Wall St Wakes Up to a 2nd Obama Term. : 0.0
 Opinion Report: Obama's Re-Election. : 0.0
- : 0.0Focus of the FCC in a Second Obama Administration: More Spectrum. : 0.375
+Focus of the FCC in a Second Obama Administration: More Spectrum. : 0.375
 Obama's Next Steps on Energy and Climate. : 0.0
 With an Obama Victory, Wall Street Pivots to Plan B. : 0.0
-, Obama's Re-election Sinks In. : -0.1
+Obama's Re-election Sinks In. : -0.1
 An Array of Relationships for Obama to Strengthen and Redefine. : 0.0
 Today's Scuttlebot: Obama's Data Crunchers, Movie Computers and the Perils of E-Voting. : 0.0
 Triumphant Obama Faces New Foe in 'Second-Term Curse'
@@ -1106,7 +1104,7 @@ Obama Victory Brings Europe a Sense of Continuity and Relief. : 0.0
 Back to Work, Obama Is Greeted by Looming Crisis. : 0.0
 For Obama, Housing Policy Presents Second-Term Headaches. : 0.0
 Years of Strong Opinions, 5 Stars for Obama. : 0.4333333333333333
-, GOP Says It Looks Good for Obama. : 0.7
+GOP Says It Looks Good for Obama. : 0.7
 Obama Chokes Up as He Thanks His Campaign Staff. : 0.2
 The Obama Campaign's Technology Is a Force Multiplier. : 0.0
 In an Era of Fiscal Cliffs, Seeking Ways Obama Can Preserve the Planet, on a Budget. : 0.0
@@ -1140,8 +1138,8 @@ Fight Over Rice Exposes Tensions Between Obama and McCain. : 0.0
 Obama, Visiting New York, Pledges Help in Recovery From Storm. : 0.13636363636363635
 Obama on Climate Policy: Not Just Now, Thanks. : 0.2
 Gay Vote Seen as Crucial in Obama's Victory. : 0.3125
-, Obama Will See a Nation That Shaped His Grandfather
- : 0.0Obama's Road to Myanmar Is Paved With New Asia Intentions. : 0.13636363636363635
+Obama Will See a Nation That Shaped His Grandfather
+Obama's Road to Myanmar Is Paved With New Asia Intentions. : 0.13636363636363635
 Today's Scuttlebot: EBay Twinkies and Obama's Engineers. : 0.0
 Obama, in an Emerging Myanmar, Vows Support. : 0.0
 Along Obama's Itinerary, Notorious Markets Persist. : 0.0
@@ -1210,4 +1208,3 @@ Were Obama's Early Ads Really the Game Changer?. : -0.11111111111111112
 Obama Vows to Fix Flaws Discovered in Benghazi Inquiry. : 0.0
 Obama Won New York City, in Case Anyone Was Wondering. : 0.13636363636363635
 Newtown Shooting the Worst Day of His Presidency, Obama Says. : -1.0
- : 0.0

@@ -53,8 +53,8 @@ Obama Budget Freezes Much Domestic Spending. : 0.0
 Smooth Transition as Obama Joins the Crew. : 0.4
 Extra Money for Science in Obama's Budget. : 0.0
 Obama to Field Questions Posted by YouTube Users. : 0.0
- : 0.0Forces Pushing Obama on 'Don't Ask, Don't Tell'.
- : 0.0Obama's Figure for 2011 Arts Budget? : 0.0The Same as His 2010 Request. : 0.0
+Forces Pushing Obama on 'Don't Ask, Don't Tell'.
+Obama's Figure for 2011 Arts Budget? : 0.0
 Obama to Seek Sweeping Change in 'No Child' Law. : 0.0
 Obama Notwithstanding, Democrats Defend 'Messy' Lawmaking. : -0.2
 In $38 Trillion Budget, Obama Pivots to Trim Future Deficits. : 0.0
@@ -129,9 +129,7 @@ Obama Restores Former Pentagon Line of Succession. : 0.0
 Obama Tries to Personalize the Health Care Bill. : -0.1
 Obama's CDC Director, Wielding a Big Broom. : 0.0
 Testing Obama, at Home and Abroad. : 0.0
-Obama Delays Trip as Report Aids Final Push
-
-on Health Care. : 0.0
+Obama Delays Trip as Report Aids Final Push on Health Care. : 0.0
 Running for Obama's Old Seat, and Set on Derailing His Plans. : 0.1
 Obama to Take Questions From Fox News : 0.0
 Obama Calls Jobs Bill a First Step. : 0.25
@@ -200,7 +198,7 @@ Obama Says Liberal Courts May Have Overreached. : 0.0
 Civil Rights Leader Is Eulogized by Obama. : 0.0
 All the Obama 20-Somethings.
 Shadow of Hurricane Katrina Hangs Over Obama After Spill. : 0.0
-, Obama Urges Openness and Defends Government. : 0.0
+Obama Urges Openness and Defends Government. : 0.0
 Obama Calls for Campaign Spending Disclosure. : 0.0
 BP Moves to Fix a Leak as Obama Warns of Damage. : 0.0
 For Obama, a Nonstop Juggling Act. : 0.0
@@ -210,17 +208,11 @@ Obama to Seek Line-Item Veto Power to Trim Spending From Bills. : 0.0
 Obama Plans Revival of Russian Nuclear Deal . : 0.0
 How Obama Sr Came to Hawaii. : 0.0
 Can Michelle Obama Make You a Star?. : 0.0
-Obama Picks Kagan as Justice Nominee
-
-. : 0.0
+Obama Picks Kagan as Justice Nominee : 0.0
 Photo Mix-up With Obama Is Called Hoax. : 0.0
 Obama Said to Be Open to New Miranda Look. : 0.10227272727272727
 Obama Asks Graduates to Close Education Gap. : 0.0
-Obama Picks
-
-Kagan, Scholar
-
-but Not Judge, for Court Seat. : 0.0
+Obama Picks Kagan, Scholar but Not Judge, for Court Seat. : 0.0
 Avoiding Tensions, Obama Reassures Karzai. : 0.0
 After Lena Horne's Death, Obama Offers Condolences. : 0.1
 Astronauts Attack Obama's NASA Plan. : 0.0
@@ -246,7 +238,7 @@ Senators' Lunch With Obama Is Marked by Spirited Confrontations. : 0.4
 Obama Takes His Cash-Drawing Power on the Road. : 0.0
 Obama Extends Moratorium; Agency Chief Resigns. : 0.0
 Visiting Gulf, Obama Tells Residents 'You Are Not Alone'.
- : 0.0Urges Resolution in Use of Obama Photo. : 0.0
+Urges Resolution in Use of Obama Photo. : 0.0
 Obama Promises Response on Question of Job Offer. : 0.0
 A Potential Obama Ally Becomes an Outspoken Foe on Immigration. : 0.0
 Alabama Candidate Tries Obama Coalition Style . : -0.1
@@ -275,9 +267,6 @@ Plea to Obama Led to an Immigrant's Arrest
 Obama's Oil Spill Team. : -0.05
 Despite Obama's Plea, European Bank Renews Call for Austerity. : 0.0
 McChrystal Tests Obama's Priorities. : 0.0
-McChrystal's Fate in Limbo 
-
-as He Prepares to Meet Obama.
 Obama Says Afghan Policy Won't Change After Dismissal. : 0.0
 Obama Requests Money for Border Security. : 0.0
 Obama Says Health Law Shouldn't Be Excuse to Raise Rates. : -0.05
@@ -349,7 +338,7 @@ Obama to Pitch Permanent Research Tax Credit. : 0.0
 Obama to Propose Tax Write-Off for Business. : 0.0
 Obama Is Against a Compromise on Bush Tax Cuts. : 0.0
 Obama Offers a Transit Plan to Create Jobs. : 0.1
- : 0.0Reactions to Obama's Business Tax Write-Off Proposals. : 0.0
+Reactions to Obama's Business Tax Write-Off Proposals. : 0.0
 Ron Bloom Is Obama's Manufacturing Emissary. : 0.0
 Obama, in Rally Mode, Steps Up Jabs at GOP. : 0.0
 Crisis Past, Obama May Have Missed a Chance. : -0.25
@@ -460,7 +449,7 @@ In a First for Obama, Nine Pardons Are Granted. : 0.25
 Cables Depict Range of Obama Diplomacy. : 0.0
 Obama Urges China to Check North Koreans. : 0.0
 Tax Deal Suggests New Path for Obama. : 0.13636363636363635
- : 0.0Murmurs of Primary Challenge to Obama. : 0.4
+Murmurs of Primary Challenge to Obama. : 0.4
 Obama Defends Tax Deal, but His Party Stays Hostile. : 0.0
 Obama Weighs a Broad Tax Overhaul. : 0.0625
 Tax Deal Is Key to Avoid Recession, Obama Adviser Says. : 0.0
@@ -487,4 +476,3 @@ Obama Returns to End-of-Life Plan That Caused Stir. : 0.0
 Obama's Traveling Team Stays Focused on Terror. : 0.0
 Six Recess Appointments to Be Made, Obama Says. : 0.0
 EPA Limit on Gases to Pose Risk to Obama and Congress. : 0.0
- : 0.0
